@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mitnb-website",
+    "title": "Welcome to Measurement is the New Black!",
     "section": "",
-    "text": "Test"
+    "text": "We are a group of scientists interested in improving the validity of time-series measurement in social sciences."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "literature/index.html",
+    "href": "literature/index.html",
+    "title": "MITNB",
+    "section": "",
+    "text": "title: “Literature”"
   }
 ]

@@ -2,16 +2,26 @@ project:
   type: website
 
 website:
-  title: "mitnb-website"
+  title: "MITNB"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Home"
+        file: index.qmd
       - about.qmd
+      - text: "Literature"
+        href: literature/index.qmd
+      - text: "People"
+        href: people/index.qmd
+    # right:
+      # - icon: 
+
+
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

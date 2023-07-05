@@ -1,5 +1,8 @@
 ---
-title: "mitnb-website"
+title: "Welcome to Measurement is the New Black!"
+# main-photo: files/mitnb_logo_draft.png
 ---
 
-Test
+
+
+We are a group of scientists interested in improving the validity of time-series measurement in social sciences.
