@@ -1,8 +1,21 @@
 ---
 title: "Welcome to Measurement is the New Black!"
-# main-photo: files/mitnb_logo_draft.png
+image: files/images/mitnb_logo_draft.png
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 23em
+
 ---
 
-
+Not sure if we want a longer text here, or only a short text here and a longer one on a second "about" page.
 
 We are a group of scientists interested in improving the validity of time-series measurement in social sciences.
+
+Find more about the background of our group on [insert link].
+
+If you want to get in touch, please do so below.
+
+
+**INSERT MAILCHIMP THINGY HERE**
+

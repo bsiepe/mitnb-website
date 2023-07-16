@@ -2,28 +2,43 @@ project:
   type: website
 
 website:
-  title: "MITNB"
+  title: "Measurement Is The New Black"
+  image: files/images/mitnb_logo_draft.png
+
   navbar:
     background: primary
     search: true
     left:
       - text: "Home"
         file: index.qmd
-      - about.qmd
+      - text: "About"
+        file: about/index.qmd
       - text: "Literature"
         href: literature/index.qmd
       - text: "People"
         href: people/index.qmd
-    # right:
-      # - icon: 
+      - text: "Projects"
+        href: projects/index.qmd
+    right:
+      - icon: envelope
+        text: Email us
+        href: "mailto:bjoern.siepe@uni-marburg.de"
+      
+  page-footer:
+    left: |
+       <span class="faux-block">{{< fa brands creative-commons >}} 2023 MITNB</span>
+       <span class="faux-block"><a href="https://github.com/bsiepe/mitnb-website">{{< fa brands github >}} Source Code</a></span>
+ 
 
 
 
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: 
+      - litera
+      - styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

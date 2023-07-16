@@ -1,0 +1,17 @@
+---
+title: "Projects"
+description-meta: "Ongoing Projects connected with MITNB"
+---
+
+## Example Project 1
+
+<!-- ```{=html} -->
+<!-- <img src="files/images/mitnb-logo.png" style="height: 100%; width: 100%; object-fit: contain"/> -->
+<!-- ``` -->
+
+
+
+
+
+
+## Example Project 2

@@ -1,5 +1,48 @@
 ---
-
 title: "Literature"
-
+description-meta: "Relevant Literature"
 ---
+
+
+## Theoretical papers/reviews: 
+Schwarz, N., & Strack, F. (1999). Reports of subjective well-being: Judgmental processes and their methodological implications. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The foundations of hedonic psychology (pp. 61–84). Russell Sage Foundation. 
+→ Describes different theories regarding response processes in making judgements about subjective well-being
+Norman, G. (2003). Hi! How are you? Response shift, implicit theories and differing epistemologies. Quality of Life Research, 12(3), 239–249. https://doi.org/10.1023/A:1023211129926 
+→ Discusses response shits in quality of life research
+Ram, N., Brinberg, M., Pincus, A. L., & Conroy, D. E. (2017). The questionable ecological validity of Ecological Momentary Assessment: Considerations for design and analysis. Research in Human Development, 14(3), 253–270. https://doi.org/10.1080/15427609.2017.1340052
+→ Outlines several problems related to validity in EMA research (e.g., measurement reactivity, lack of compliance, choice of response scales)
+Kuppens, P., Dejonckheere, E., Kalokerinos, E. K., & Koval, P. (2022). Some recommendations on the use of daily life methods in affective science. Affective Science, 3(2), 505–515. https://doi.org/10.1007/s42761-022-00101-0 
+→ General recommendations about EMA studies, but also has a part about measurement (and how heavily its understudied)
+
+**Leertouwer, Ij., Cramer, A. O. J., Vermunt, J. K., & Schuurman, N. K. (2021).** [A Review of Explicit and Implicit Assumptions When Providing Personalized Feedback Based on Self-Report EMA Data.](https://doi.org/10.3389/fpsyg.2021.764526) Frontiers in Psychology, 12, 764526. 
+
+  - Cool Study about interesting stuff
+   
+ 
+
+
+Leertouwer, Ij., Cramer, A. O. J., Vermunt, J. K., & Schuurman, N. K. (2021). A Review of Explicit and Implicit Assumptions When Providing Personalized Feedback Based on Self-Report EMA Data. Frontiers in Psychology, 12, 764526. https://doi.org/10.3389/fpsyg.2021.764526 → Describes assumptions related to impact of personal feedback. Particularly relevant also for studies regarding response processes!
+Zumbo, B. D., & Hubley, A. M. (Eds.). (2017). Understanding and investigating response processes in validation research. Springer International Publishing. https://doi.org/10.1007/978-3-319-56129-5 → not specific to EMA, but gives information about cognitive interviewing!
+
+## Validity:
+Cloos, L. J. R., Kuppens, P., & Ceulemans, E. (in press). Development, validation, and comparison of self-report measures for positive and negative affect in intensive longitudinal research. In Psychological Assessment. https://doi.org/10.31234/osf.io/5j7c6 
+
+## Reliability:
+Dejonckheere, E., Demeyer, F., Geusens, B., Piot, M., Tuerlinckx, F., Verdonck, S., & Mestdagh, M. (2022). Assessing the Reliability of Single-Item Momentary Affective Measurements in Experience Sampling. Psychological Assessment. https://doi.org/10.1037/pas0001178 
+
+## Measurement reactivity/ Initial elevation bias:
+Eisele, G., Vachon, H., Lafit, G., Tuyaerts, D., Houben, M., Kuppens, P., Myin-Germeys, I., & Viechtbauer, W. (2022). A mixed-method investigation into measurement reactivity to the experience sampling method: The role of sampling protocol and individual characteristics. Psychological Assessment. Advance online publication. https://doi.org/10.1037/pas0001177 
+König, L. M., Allmeta, A., Christlein, N., Van Emmenis, M., & Sutton, S. (2022). A systematic review and meta-analysis of studies of reactivity to digital in-the-moment measurement of health behaviour. Health Psychology Review, 1–25. https://doi.org/10.1080/17437199.2022.2047096 
+Reynolds, B. M., Robles, T. F., & Repetti, R. L. (2016). Measurement reactivity and fatigue effects in daily diary research with families. Developmental Psychology, 52(3), 442–456. https://doi.org/10.1037/dev0000081 
+Cerino, E., Schneider, S., Stone, A., Sliwinski, M., Mogle, J., & Smyth, J. (2022). Little evidence for consistent initial elevation bias in self-reported momentary affect: A coordinated analysis of ecological momentary assessment studies. Psychological Assessment, 34. https://doi.org/10.1037/pas0001108 
+
+## Measurement invariance:
+Adolf, J., Schuurman, N. K., Borkenau, P., Borsboom, D., & Dolan, C. V. (2014). Measurement invariance within and between individuals: A distinct problem in testing the equivalence of intra- and inter-individual model structures. Frontiers in Psychology, 5. https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00883 
+Vogelsmeier, L. V. D. E., Vermunt, J. K., & De Roover, K. (2022). How to explore within-person and between-person measurement model differences in intensive longitudinal data with the R package lmfa. Behavior Research Methods. Advance online publication. https://doi.org/10.3758/s13428-022-01898-1 
+Vogelsmeier, L. V. D. E., Vermunt, J. K., van Roekel, E., & De Roover, K. (2019). Latent Markov Factor Analysis for Exploring Measurement Model Changes in Time-Intensive Longitudinal Studies. Structural Equation Modeling: A Multidisciplinary Journal, 26(4), 557–575. https://doi.org/10.1080/10705511.2018.1554445 
+Vogelsmeier, L. V. D. E., Vermunt, J. K., Bülow, A., & De Roover, K. (2021). Evaluating Covariate Effects on ESM Measurement Model Changes with Latent Markov Factor Analysis: A Three-Step Approach. Multivariate Behavioral Research, 1–30. https://doi.org/10.1080/00273171.2021.1967715 
+McNeish, D., Mackinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2021). Measurement in Intensive Longitudinal Data. Structural Equation Modeling: A Multidisciplinary Journal, 28(5), 807–822. https://doi.org/10.1080/10705511.2021.1915788 
+
+## Design features EMA:
+Eisele, G., Lafit, G., Vachon, H., Kuppens, P., Houben, M., Myin-Germeys, I., & Viechtbauer, W. (2021). Affective structure, measurement invariance, and reliability across different experience sampling protocols. Journal of Research in Personality, 92, 104094. https://doi.org/10.1016/J.JRP.2021.104094 
+Eisele, G., Vachon, H., Lafit, G., Kuppens, P., Houben, M., Myin-Germeys, I., & Viechtbauer, W. (2022). The effects of sampling frequency and questionnaire length on perceived burden, compliance, and careless responding in experience sampling data in a student population. Assessment, 29(2), 136–151. https://doi.org/10.1177/1073191120957102 
