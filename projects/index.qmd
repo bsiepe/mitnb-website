@@ -5,13 +5,15 @@ description-meta: "Ongoing Projects connected with MITNB"
 
 ## Example Project 1
 
-<!-- ```{=html} -->
-<!-- <img src="files/images/mitnb-logo.png" style="height: 100%; width: 100%; object-fit: contain"/> -->
-<!-- ``` -->
+```{=html}
 
+<img src="files/images/mitnb_logo_draft.png" style="height: 50%; width: 50%; object-fit: contain"/>
 
+```
+In the XZY Study, we follow individuals over 20 years. 
+Find more information here: 
 
-
-
+<a href="https://google.com" target="_blank">Project website</a> | 
+<a href="https://osf.com" target="_blank">OSF Link</a>
 
 ## Example Project 2
