@@ -49,7 +49,7 @@ $footer-fg: $gray-300 !default;
 
 // Inline code
 $code-bg: $gray-200 !default;
-$code-color: $gray-900 !default;
+$code-color: $black !default;   /*-- changed this --*/
 
 // TOC
 $toc-color: $orange;
@@ -81,7 +81,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .navbar {
   z-index: 0;
-  background: $light-orange ;
+  background: $white ;
 }
 
 
@@ -149,10 +149,6 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 
-
-#news p a{
-  color: $orange;
-}
 
 
 
