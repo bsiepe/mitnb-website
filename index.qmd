@@ -8,13 +8,13 @@ about:
 
 ---
 
-Not sure if we want a longer text here, or only a short text here and a longer one on a second "about" page.
-
 We are a group of scientists interested in improving the validity of time-series measurement in social sciences.
 
-Find more about the background of our group on [insert link].
+Things to list here: 
 
-If you want to get in touch, please do so below.
+* Explain homepage content briefly.
+* If you want to get in touch, please do so below.
+* Mention Slack somewhere - not sure how people could join, probably email to Laura?
 
 
 I would put the mailchimp thing somewhere here:
