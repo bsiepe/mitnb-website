@@ -1,0 +1,18 @@
+---
+title: ""
+description-meta: "Form to join our slack"
+image: ../files/images/slack.svg
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 23em
+---
+
+If you want to get involved in our group and participate in discussions we recommend to join our Slack community! The easiest way to join is to fill out the form below. We will quickly review the information and send you an invitation as soon as possible.
+
+```{=html}
+<div>
+<script type="text/javascript" src="https://form.jotform.com/jsform/232332170400034"></script>
+</div>
+```
+
