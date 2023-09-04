@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the XZY Study, we follow individuals over 20 years. Find more information here:\nProject website | OSF Link"
+  },
+  {
+    "objectID": "projects/index.html#example-project-1",
+    "href": "projects/index.html#example-project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "In the XZY Study, we follow individuals over 20 years. Find more information here:\nProject website | OSF Link"
+  },
+  {
+    "objectID": "projects/index.html#response-processes-in-esm-studies",
+    "href": "projects/index.html#response-processes-in-esm-studies",
+    "title": "Projects",
+    "section": "Response Processes in ESM Studies",
+    "text": "Response Processes in ESM Studies\nPrinciple Investigator: Dominique Maciejewski\nResearcher: Leonie Schorlepp\nDescription: The Experience Sampling Method (ESM), a technique to study emotions in daily life, is booming among researchers and clinicians. To justify its use, valid measurements are crucial, but recently concerns about the validity of ESM have been voiced. An important source of validity evidence are the response processes that individuals engage in when answering questions about their emotions, specifically how they interpret and respond to these questions. Remarkably, we know very little about the exact response processes in emotion measurement in ESM studies. More importantly, there are concerns that participants are not consistent over time and differ from each other in how they interpret and respond to questions about their emotions. The current project proposes a person-specific approach to identify how individuals interpret and respond to questions about their emotions in ESM studies. Specifically, it will identify how consistent individuals are over time and how they differ from each other in these response processes. Results will generate new hypotheses regarding response processes and provide practical implications for researchers and clinicians using ESM."
+  },
+  {
+    "objectID": "literature/index.html",
+    "href": "literature/index.html",
+    "title": "Literature",
+    "section": "",
+    "text": "This is an incomplete list of some literature that members of MITNB added. Some of the papers tackle multiple of the topics listed."
+  },
+  {
+    "objectID": "literature/index.html#theoretical-papersreviews",
+    "href": "literature/index.html#theoretical-papersreviews",
+    "title": "Literature",
+    "section": "Theoretical papers/reviews",
+    "text": "Theoretical papers/reviews\nSchwarz, N., & Strack, F. (1999). Reports of Subjective Well-Being: Judgmental Processes and Their Methodological Implications. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The Foundations of Hedonic Psychology (pp. 61–84). Russell Sage Foundation. - Describes different theories regarding response processes in making judgments about subjective well-being.\nNorman, G. (2003). Hi! How Are You? Response Shift, Implicit Theories and Differing Epistemologies. Quality of Life Research, 12(3), 239–249. - Discusses response shifts in quality of life research.\nRam, N., Brinberg, M., Pincus, A. L., & Conroy, D. E. (2017). The Questionable Ecological Validity of Ecological Momentary Assessment: Considerations for Design and Analysis. Research in Human Development, 14(3), 253–270. - Outlines several problems related to validity in EMA research (e.g., measurement reactivity, lack of compliance, choice of response scales).\nKuppens, P., Dejonckheere, E., Kalokerinos, E. K., & Koval, P. (2022). Some Recommendations on the Use of Daily Life Methods in Affective Science. Affective Science, 3(2), 505–515. - General recommendations about EMA studies, but also has a part about measurement (and how heavily it’s understudied).\nLeertouwer, Ij., Cramer, A. O. J., Vermunt, J. K., & Schuurman, N. K. (2021). A Review of Explicit and Implicit Assumptions When Providing Personalized Feedback Based on Self-Report EMA Data. Frontiers in Psychology, 12, 764526. - Describes assumptions related to the impact of personal feedback. Particularly relevant also for studies regarding response processes!\nZumbo, B. D., & Hubley, A. M. (Eds.). (2017). Understanding and Investigating Response Processes in Validation Research. Springer International Publishing. - Not specific to EMA, but gives information about cognitive interviewing!"
+  },
+  {
+    "objectID": "literature/index.html#validity",
+    "href": "literature/index.html#validity",
+    "title": "Literature",
+    "section": "Validity",
+    "text": "Validity\nCloos, L. J. R., Kuppens, P., & Ceulemans, E. (in press). Development, validation, and comparison of self-report measures for positive and negative affect in intensive longitudinal research. In Psychological Assessment."
+  },
+  {
+    "objectID": "literature/index.html#reliability",
+    "href": "literature/index.html#reliability",
+    "title": "Literature",
+    "section": "Reliability",
+    "text": "Reliability\nDejonckheere, E., Demeyer, F., Geusens, B., Piot, M., Tuerlinckx, F., Verdonck, S., & Mestdagh, M. (2022). Assessing the Reliability of Single-Item Momentary Affective Measurements in Experience Sampling. Psychological Assessment."
+  },
+  {
+    "objectID": "literature/index.html#measurement-reactivityinitial-elevation-bias",
+    "href": "literature/index.html#measurement-reactivityinitial-elevation-bias",
+    "title": "Literature",
+    "section": "Measurement reactivity/Initial elevation bias",
+    "text": "Measurement reactivity/Initial elevation bias\nEisele, G., Vachon, H., Lafit, G., Tuyaerts, D., Houben, M., Kuppens, P., Myin-Germeys, I., & Viechtbauer, W. (2022). A Mixed-Method Investigation into Measurement Reactivity to the Experience Sampling Method: The Role of Sampling Protocol and Individual Characteristics. Psychological Assessment. Advance online publication.\nKönig, L. M., Allmeta, A., Christlein, N., Van Emmenis, M., & Sutton, S. (2022). A Systematic Review and Meta-Analysis of Studies of Reactivity to Digital In-the-Moment Measurement of Health Behaviour. Health Psychology Review, 1–25.\nReynolds, B. M., Robles, T. F., & Repetti, R. L. (2016). Measurement Reactivity and Fatigue Effects in Daily Diary Research with Families. Developmental Psychology, 52(3), 442–456.\nCerino, E., Schneider, S., Stone, A., Sliwinski, M., Mogle, J., & Smyth, J. (2022). Little Evidence for Consistent Initial Elevation Bias in Self-Reported Momentary Affect: A Coordinated Analysis of Ecological Momentary Assessment Studies. Psychological Assessment, 34."
+  },
+  {
+    "objectID": "literature/index.html#measurement-invariance",
+    "href": "literature/index.html#measurement-invariance",
+    "title": "Literature",
+    "section": "Measurement Invariance",
+    "text": "Measurement Invariance\nAdolf, J., Schuurman, N. K., Borkenau, P., Borsboom, D., & Dolan, C. V. (2014). Measurement Invariance within and between Individuals: A Distinct Problem in Testing the Equivalence of Intra- and Inter-Individual Model Structures. Frontiers in Psychology, 5.\nVogelsmeier, L. V. D. E., Vermunt, J. K., & De Roover, K. (2022). How to Explore Within-Person and Between-Person Measurement Model Differences in Intensive Longitudinal Data with the R Package lmfa. Behavior Research Methods. Advance online publication.\nVogelsmeier, L. V. D. E., Vermunt, J. K., van Roekel, E., & De Roover, K. (2019). Latent Markov Factor Analysis for Exploring Measurement Model Changes in Time-Intensive Longitudinal Studies. Structural Equation Modeling: A Multidisciplinary Journal, 26(4), 557–575.\nVogelsmeier, L. V. D. E., Vermunt, J. K., Bülow, A., & De Roover, K. (2021). Evaluating Covariate Effects on ESM Measurement Model Changes with Latent Markov Factor Analysis: A Three-Step Approach. Multivariate Behavioral Research, 1–30.\nMcNeish, D., Mackinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2021). Measurement in Intensive Longitudinal Data. Structural Equation Modeling: A Multidisciplinary Journal, 28(5), 807–822."
+  },
+  {
+    "objectID": "literature/index.html#design-features",
+    "href": "literature/index.html#design-features",
+    "title": "Literature",
+    "section": "Design Features",
+    "text": "Design Features\nEisele, G., Lafit, G., Vachon, H., Kuppens, P., Houben, M., Myin-Germeys, I., & Viechtbauer, W. (2021). Affective Structure, Measurement Invariance, and Reliability across Different Experience Sampling Protocols. Journal of Research in Personality, 92, 104094.\nEisele, G., Vachon, H., Lafit, G., Kuppens, P., Houben, M., Myin-Germeys, I., & Viechtbauer, W. (2022). The Effects of Sampling Frequency and Questionnaire Length on Perceived Burden, Compliance, and Careless Responding in Experience Sampling Data in a Student Population. Assessment, 29(2), 136–151."
+  },
+  {
+    "objectID": "extra/slack.html",
+    "href": "extra/slack.html",
+    "title": "Measurement Is The New Black",
+    "section": "",
+    "text": "If you want to get involved in our group and participate in discussions we recommend to join our Slack community! The easiest way to join is to fill out the form below. We will quickly review the information and send you an invitation as soon as possible."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "What is this all about?",
+    "section": "",
+    "text": "Experience Sampling Methods (ESM) have gained tremendous popularity in studying dynamic processes in daily life. In ESM, individuals rate their emotions, thoughts, and behaviours multiple times per day across days, weeks or months using smartphone apps. The data obtained with ESM allow zooming into dynamic processes as they unfold in real-time in daily life. Due to technological advances of the past decades, ESM research is booming in research (Myin-Germeys et al., 2018) and has found its way into clinical practice (Mestdagh et al., 2022).\nTo justify the use of ESM, valid measurements are crucial. Surprisingly, in contrast to a long history of psychometric evaluations regarding relatively stable traits (e.g., intelligence), much less attention has been paid to measurement in ESM (Kuppens et al., 2022). Along with good theory, proper measurement is imperative to drawing valid conclusions (Flake & Fried, 2020).\nAs a response to this lack of research focussing on validity and reliability, we formed the “Measurement is the New Black” (MITNB) consortium in 2022. The MITNB is an interdisciplinary consortium consisting of international researchers and clinicians, with expertise in quantitative statistics, qualitative methods, philosophy of science, clinical and developmental psychology that aims to improve the validity and reliability of ESM in the social sciences. Together, we come up with new innovative ways to address some core questions, such as:\nWe have a strong motivation to feed our results back to the scientific and clinical community. Thus, in the upcoming decade we will not only conduct a number of studies on psychometrics in ESM, but also summarise concrete recommendations on how to better measure in ESM research."
+  },
+  {
+    "objectID": "about/index.html#references",
+    "href": "about/index.html#references",
+    "title": "What is this all about?",
+    "section": "References",
+    "text": "References\nFisher, A. J., & Boswell, J. F. (2016). Enhancing the personalization of psychotherapy with dynamic assessment and modeling. Assessment, 23(4), 496–506. https://doi.org/10.1177/1073191116638735  Flake, J. K., & Fried, E. I. (2020). Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them. Advances in Methods and Practices in Psychological Science, 3(4), 456–465. https://doi.org/10.1177/2515245920952393  Kuppens, P., Dejonckheere, E., Kalokerinos, E. K., & Koval, P. (2022). Some recommendations on the use of daily life methods in affective science. Affective Science, 3(2), 505–515. https://doi.org/10.1007/s42761-022-00101-0  Mestdagh, M., Verdonck, S., Piot, M., Niemeijer, K., Tuerlinckx, F., Kuppens, P., & Dejonckheere, E. (2022). m-Path: An easy-to-use and flexible platform for ecological momentary assessment and intervention in behavioral research and clinical practice. PsyArXiv. https://doi.org/10.31234/osf.io/uqdfs  Myin-Germeys, I., Kasanova, Z., Vaessen, T., Vachon, H., Kirtley, O., Viechtbauer, W., & Reininghaus, U. (2018). Experience sampling methodology in mental health research: New insights and technical developments. World Psychiatry, 17(2), 123–132. https://doi.org/10.1002/WPS.20513"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Measurement Is The New Black",
+    "section": "",
+    "text": "We are a group of scientists interested in improving the validity of time-series measurement in social sciences.\nThings to list here:\n\nExplain homepage content briefly.\nIf you want to get in touch, please do so below.\nMention Slack somewhere - not sure how people could join, probably email to Laura?\n\nI would put the mailchimp thing somewhere here:\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *First Name *Last Name *Marketing PermissionsWe take your data seriously! Please select all the ways you would like to hear from MITNB:NewsletterNew publicationsEvents (in the future)You can unsubscribe at any time by clicking the link in the footer of our emails!We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices.\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
+    "section": "",
+    "text": "Two options here:\n\nGroup Photo + Short list\n\n\nIndividual Fotos in a list\n\nPerson One\nPosition:\nResearch Interests:\nContact Information:\n\n\n\nAlternative Display with Boxes\n\n  Person One\n  \n    \n      Position: Assistant Professor, Psychometrics, MITNB University\n      Research Interests: Machine Learning, Data Visualization\n      Contact Information: Email: person@example.com\n    \n    \n  \n\n\n  Person Two\n  \n    \n      Position: PhD Student, Qualitative Methods, MITNB University\n      Research Interests: Response Processes, Qualitative Data Analysis \n      Contact Information: Email: person@example.com"
+  }
+]
