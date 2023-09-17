@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Measurement Is The New Black"
-  image: files/images/mitnb_logo_draft.png
+  image: files/images/logo_mitnb.png
 
   navbar:
     background: primary

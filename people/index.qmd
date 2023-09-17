@@ -28,7 +28,7 @@ Contact Information:
       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li>
       <li><strong>Contact Information:</strong> Email: person@example.com</li>
     </ul>
-    <img src="files/images/mitnb_logo_draft.png" alt="Person Image">
+    <img src="files/images/logo_mitnb.png" alt="Person Image">
   </div>
 </div>
 ```
@@ -41,7 +41,7 @@ Contact Information:
       <li><strong>Research Interests:</strong> Response Processes, Qualitative Data Analysis </li>
       <li><strong>Contact Information:</strong> Email: person@example.com</li>
     </ul>
-    <img src="files/images/mitnb_logo_draft.png" alt="Person Image">
+    <img src="files/images/logo_mitnb.png" alt="Person Image">
   </div>
 </div>
 ```

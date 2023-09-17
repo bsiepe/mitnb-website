@@ -1,6 +1,6 @@
 ---
 title: ""
-image: files/images/mitnb_logo_draft.png
+image: files/images/logo_mitnb.png
 about: 
   template: trestles
   image-shape: rectangle
