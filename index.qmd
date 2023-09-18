@@ -9,13 +9,13 @@ about:
 
 We are a group of scientists interested in improving the validity of time-series measurement in social sciences.
 
-Things to list here:
+<!-- Things to list here: -->
 
--   Explain homepage content briefly.
--   If you want to get in touch, please do so below.
--   Mention Slack somewhere - not sure how people could join, probably email to Laura?
+<!-- -   Explain homepage content briefly. -->
+<!-- -   If you want to get in touch, please do so below. -->
+<!-- -   Mention Slack somewhere - not sure how people could join, probably email to Laura? -->
 
-I would put the mailchimp thing somewhere here:
+Sign up for our mailing list here: 
 
 ```{=html}
 <div id="mc_embed_shell">

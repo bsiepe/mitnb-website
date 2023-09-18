@@ -127,22 +127,11 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#group-photo-short-list" id="toc-group-photo-short-list" class="nav-link active" data-scroll-target="#group-photo-short-list">Group Photo + Short list</a></li>
-  <li><a href="#individual-fotos-in-a-list" id="toc-individual-fotos-in-a-list" class="nav-link" data-scroll-target="#individual-fotos-in-a-list">Individual Fotos in a list</a>
-  <ul class="collapse">
-  <li><a href="#person-one" id="toc-person-one" class="nav-link" data-scroll-target="#person-one">Person One</a></li>
-  </ul></li>
-  <li><a href="#alternative-display-with-boxes" id="toc-alternative-display-with-boxes" class="nav-link" data-scroll-target="#alternative-display-with-boxes">Alternative Display with Boxes</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -161,46 +150,70 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Two options here:</p>
-<section id="group-photo-short-list" class="level1">
-<h1>Group Photo + Short list</h1>
-</section>
-<section id="individual-fotos-in-a-list" class="level1">
-<h1>Individual Fotos in a list</h1>
-<section id="person-one" class="level3">
-<h3 class="anchored" data-anchor-id="person-one">Person One</h3>
-<p>Position:</p>
-<p>Research Interests:</p>
-<p>Contact Information:</p>
-</section>
-</section>
-<section id="alternative-display-with-boxes" class="level1">
-<h1>Alternative Display with Boxes</h1>
-<div class="person-card">
-  <h3 class="anchored" data-anchor-id="alternative-display-with-boxes">Person One</h3>
+<p>This page will be filled with content shortly.</p>
+<style>
+  .person-card {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+  }
+
+  .person-card.clicked {
+    width: 500px; /* Adjust the width as needed */
+  }
+
+  .person-card .content-wrapper {
+    display: none;
+    flex-grow: 1;
+    padding-right: 20px;
+  }
+
+  .person-card.clicked .content-wrapper {
+    display: block;
+  }
+
+  .person-card img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<script>
+  function toggleCard(card) {
+    card.classList.toggle('clicked');
+  }
+</script>
+
+<div class="person-card" onclick="toggleCard(this)">
+  <h3 class="anchored">Person One</h3>
+  <img src="files/images/logo_mitnb.png" alt="Person Image">
   <div class="content-wrapper">
     <ul>
       <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li>
       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li>
       <li><strong>Contact Information:</strong> Email: person@example.com</li>
     </ul>
-    <img src="files/images/logo_mitnb.png" alt="Person Image">
   </div>
 </div>
-<div class="person-card">
-  <h3 class="anchored">Person Two</h3>
+
+<div class="person-card" onclick="toggleCard(this)">
+  <h3 class="anchored">Person One</h3>
+  <img src="files/images/logo_mitnb.png" alt="Person Image">
   <div class="content-wrapper">
     <ul>
-      <li><strong>Position:</strong> PhD Student, Qualitative Methods, MITNB University</li>
-      <li><strong>Research Interests:</strong> Response Processes, Qualitative Data Analysis </li>
+      <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li>
+      <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li>
       <li><strong>Contact Information:</strong> Email: person@example.com</li>
     </ul>
-    <img src="files/images/logo_mitnb.png" alt="Person Image">
   </div>
 </div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

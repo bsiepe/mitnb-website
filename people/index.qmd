@@ -3,45 +3,72 @@ title: "People"
 description-meta: "Members of the MITNB consortium"
 ---
 
-Two options here:
+This page will be filled with content shortly.
 
-# Group Photo + Short list
-
-# Individual Fotos in a list
-
-### Person One
-
-Position:
-
-Research Interests:
-
-Contact Information:
-
-# Alternative Display with Boxes
 
 ```{=html}
-<div class="person-card">
+<style>
+  .person-card {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+  }
+
+  .person-card.clicked {
+    width: 500px; /* Adjust the width as needed */
+  }
+
+  .person-card .content-wrapper {
+    display: none;
+    flex-grow: 1;
+    padding-right: 20px;
+  }
+
+  .person-card.clicked .content-wrapper {
+    display: block;
+  }
+
+  .person-card img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<script>
+  function toggleCard(card) {
+    card.classList.toggle('clicked');
+  }
+</script>
+
+<div class="person-card" onclick="toggleCard(this)">
   <h3>Person One</h3>
+  <img src="files/images/logo_mitnb.png" alt="Person Image">
   <div class="content-wrapper">
     <ul>
       <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li>
       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li>
       <li><strong>Contact Information:</strong> Email: person@example.com</li>
     </ul>
-    <img src="files/images/logo_mitnb.png" alt="Person Image">
   </div>
 </div>
+
 ```
+
 ```{=html}
-<div class="person-card">
-  <h3>Person Two</h3>
+<div class="person-card" onclick="toggleCard(this)">
+  <h3>Person One</h3>
+  <img src="files/images/logo_mitnb.png" alt="Person Image">
   <div class="content-wrapper">
     <ul>
-      <li><strong>Position:</strong> PhD Student, Qualitative Methods, MITNB University</li>
-      <li><strong>Research Interests:</strong> Response Processes, Qualitative Data Analysis </li>
+      <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li>
+      <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li>
       <li><strong>Contact Information:</strong> Email: person@example.com</li>
     </ul>
-    <img src="files/images/logo_mitnb.png" alt="Person Image">
   </div>
 </div>
 ```

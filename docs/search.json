@@ -4,21 +4,14 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "In the XZY Study, we follow individuals over 20 years. Find more information here:\nProject website | OSF Link"
-  },
-  {
-    "objectID": "projects/index.html#example-project-1",
-    "href": "projects/index.html#example-project-1",
-    "title": "Projects",
-    "section": "",
-    "text": "In the XZY Study, we follow individuals over 20 years. Find more information here:\nProject website | OSF Link"
+    "text": "Principle Investigator: Dominique Maciejewski\nResearcher: Leonie Schorlepp\nDescription: The Experience Sampling Method (ESM), a technique to study emotions in daily life, is booming among researchers and clinicians. To justify its use, valid measurements are crucial, but recently concerns about the validity of ESM have been voiced. An important source of validity evidence are the response processes that individuals engage in when answering questions about their emotions, specifically how they interpret and respond to these questions. Remarkably, we know very little about the exact response processes in emotion measurement in ESM studies. More importantly, there are concerns that participants are not consistent over time and differ from each other in how they interpret and respond to questions about their emotions. The current project proposes a person-specific approach to identify how individuals interpret and respond to questions about their emotions in ESM studies. Specifically, it will identify how consistent individuals are over time and how they differ from each other in these response processes. Results will generate new hypotheses regarding response processes and provide practical implications for researchers and clinicians using ESM."
   },
   {
     "objectID": "projects/index.html#response-processes-in-esm-studies",
     "href": "projects/index.html#response-processes-in-esm-studies",
     "title": "Projects",
-    "section": "Response Processes in ESM Studies",
-    "text": "Response Processes in ESM Studies\nPrinciple Investigator: Dominique Maciejewski\nResearcher: Leonie Schorlepp\nDescription: The Experience Sampling Method (ESM), a technique to study emotions in daily life, is booming among researchers and clinicians. To justify its use, valid measurements are crucial, but recently concerns about the validity of ESM have been voiced. An important source of validity evidence are the response processes that individuals engage in when answering questions about their emotions, specifically how they interpret and respond to these questions. Remarkably, we know very little about the exact response processes in emotion measurement in ESM studies. More importantly, there are concerns that participants are not consistent over time and differ from each other in how they interpret and respond to questions about their emotions. The current project proposes a person-specific approach to identify how individuals interpret and respond to questions about their emotions in ESM studies. Specifically, it will identify how consistent individuals are over time and how they differ from each other in these response processes. Results will generate new hypotheses regarding response processes and provide practical implications for researchers and clinicians using ESM."
+    "section": "",
+    "text": "Principle Investigator: Dominique Maciejewski\nResearcher: Leonie Schorlepp\nDescription: The Experience Sampling Method (ESM), a technique to study emotions in daily life, is booming among researchers and clinicians. To justify its use, valid measurements are crucial, but recently concerns about the validity of ESM have been voiced. An important source of validity evidence are the response processes that individuals engage in when answering questions about their emotions, specifically how they interpret and respond to these questions. Remarkably, we know very little about the exact response processes in emotion measurement in ESM studies. More importantly, there are concerns that participants are not consistent over time and differ from each other in how they interpret and respond to questions about their emotions. The current project proposes a person-specific approach to identify how individuals interpret and respond to questions about their emotions in ESM studies. Specifically, it will identify how consistent individuals are over time and how they differ from each other in these response processes. Results will generate new hypotheses regarding response processes and provide practical implications for researchers and clinicians using ESM."
   },
   {
     "objectID": "literature/index.html",
@@ -95,13 +88,13 @@
     "href": "index.html",
     "title": "Measurement Is The New Black",
     "section": "",
-    "text": "We are a group of scientists interested in improving the validity of time-series measurement in social sciences.\nThings to list here:\n\nExplain homepage content briefly.\nIf you want to get in touch, please do so below.\nMention Slack somewhere - not sure how people could join, probably email to Laura?\n\nI would put the mailchimp thing somewhere here:\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *First Name *Last Name *Marketing PermissionsWe take your data seriously! Please select all the ways you would like to hear from MITNB:NewsletterNew publicationsEvents (in the future)You can unsubscribe at any time by clicking the link in the footer of our emails!We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices.\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
+    "text": "We are a group of scientists interested in improving the validity of time-series measurement in social sciences.\n\n\n\n\nSign up for our mailing list here:\n\n      \n  \n\n    \n        Subscribe\n            * indicates required\n            Email Address *First Name *Last Name *Marketing PermissionsWe take your data seriously! Please select all the ways you would like to hear from MITNB:NewsletterNew publicationsEvents (in the future)You can unsubscribe at any time by clicking the link in the footer of our emails!We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices.\n        \n            \n            \n        \n    \n        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */"
   },
   {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Two options here:\n\nGroup Photo + Short list\n\n\nIndividual Fotos in a list\n\nPerson One\nPosition:\nResearch Interests:\nContact Information:\n\n\n\nAlternative Display with Boxes\n\n  Person One\n  \n    \n      Position: Assistant Professor, Psychometrics, MITNB University\n      Research Interests: Machine Learning, Data Visualization\n      Contact Information: Email: person@example.com\n    \n    \n  \n\n\n  Person Two\n  \n    \n      Position: PhD Student, Qualitative Methods, MITNB University\n      Research Interests: Response Processes, Qualitative Data Analysis \n      Contact Information: Email: person@example.com"
+    "text": "This page will be filled with content shortly.\n\n\n\n\n\n  Person One\n  \n  \n    \n      Position: Assistant Professor, Psychometrics, MITNB University\n      Research Interests: Machine Learning, Data Visualization\n      Contact Information: Email: person@example.com\n    \n  \n\n\n\n  Person One\n  \n  \n    \n      Position: Assistant Professor, Psychometrics, MITNB University\n      Research Interests: Machine Learning, Data Visualization\n      Contact Information: Email: person@example.com"
   }
 ]
