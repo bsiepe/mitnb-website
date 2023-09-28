@@ -12,8 +12,8 @@ website:
     left:
       - text: "{{< fa house >}} Home"
         file: index.qmd
-      - text: "{{< fa brands slack >}} Slack"
-        file: extra/slack.qmd
+      # - text: "{{< fa brands slack >}} Slack"
+        # file: extra/slack.qmd
       - text: "{{< fa circle-info >}} About"
         file: about/index.qmd
       - text: "{{< fa book >}} Literature"
@@ -25,7 +25,7 @@ website:
     right:
       - icon: envelope
         text: Email us
-        href: "mailto:bjoern.siepe@uni-marburg.de"
+        href: "mailto:l.f.bringmann@rug.nl"
       
   page-footer:
     left: |
