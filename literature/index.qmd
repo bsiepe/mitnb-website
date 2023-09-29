@@ -3,7 +3,7 @@ title: "Literature"
 description-meta: "Relevant Literature"
 ---
 
-This is an incomplete list of some literature that members of MITNB added. Some of the papers tackle multiple of the topics listed.
+This is an incomplete list of some relevant literature that was collected within MITNB. It will be expanded soon. Some of the papers tackle multiple of the topics listed.
 
 ## Theoretical papers/reviews
 

@@ -35,11 +35,11 @@ website:
     center: |
         <span class="faux-block"><a href="https://github.com/bsiepe/mitnb-website">{{< fa brands github >}} Source Code</a></span>
         <span class="faux-block"><a href="https://github.com/bsiepe/mitnb-website">{{< ai osf >}} OSF </a></span>
-    right:
-      - text: "Impressum"
-        href: extra/impressum.qmd
-      - text: "Data Privacy"
-        href: extra/data_privacy.qmd
+    # right:
+    #   - text: "Impressum"
+    #     href: extra/impressum.qmd
+    #   - text: "Data Privacy"
+    #     href: extra/data_privacy.qmd
        
  
 
