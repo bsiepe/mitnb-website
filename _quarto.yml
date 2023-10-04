@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Measurement Is The New Black"
-  image: files/images/logo_mitnb.png
+  image: files/images/logo_mitnb_cut.png
 
   navbar:
     background: primary
@@ -25,7 +25,7 @@ website:
     right:
       - icon: envelope
         text: Email us
-        href: "mailto:l.f.bringmann@rug.nl"
+        href: "mailto:D.F.Maciejewski@tilburguniversity.edu"
       
   page-footer:
     left: |
@@ -52,7 +52,7 @@ format:
       - styles.css
     toc: true
     page-layout: full
-    fontsize: 1.1em
+    fontsize: 1.2em
 
 editor: visual
 

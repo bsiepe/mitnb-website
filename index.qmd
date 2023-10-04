@@ -1,16 +1,18 @@
 ---
 title: ""
-image: files/images/logo_mitnb.png
+image: files/images/logo_mitnb_cut.png
 about: 
-  template: trestles
+  template: jolla
   image-shape: rectangle
-  image-width: 23em
+  image-width: 35em
 ---
 
-We are a group of scientists interested in improving the validity of time-series measurement in social sciences. 
+</center>
+<p> We are a group of scientists interested in improving the validity of time-series measurement in social sciences. <br>
 You can find out more about our motivation and goals [here](about/index.qmd). <br>
-If you want to be added to our mailing list or join our slack channel, get in touch with us via [e-mail](mailto:l.f.bringmann@rug.nl).
+If you want to be added to our mailing list or join our slack channel, get in touch with us via [e-mail](mailto:D.F.Maciejewski@tilburguniversity.edu). <p> 
 
+</center>
 <!-- Things to list here: -->
 
 <!-- -   Explain homepage content briefly. -->

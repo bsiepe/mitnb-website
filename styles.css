@@ -36,6 +36,8 @@ $light:     $gray-400 !default;
 $dark:      $black !default;
 
 
+// Fonts
+$font-size-root: 16; 
 
 // Links
 $link-color: $orange !default;
