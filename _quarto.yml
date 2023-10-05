@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Measurement Is The New Black"
+  # title: "Measurement Is The New Black"
   image: files/images/logo_mitnb_cut.png
 
   navbar:
@@ -52,7 +52,7 @@ format:
       - styles.css
     toc: true
     page-layout: full
-    fontsize: 1.2em
+    fontsize: 1.5em
 
 editor: visual
 

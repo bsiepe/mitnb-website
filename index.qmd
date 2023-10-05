@@ -1,16 +1,16 @@
 ---
 title: ""
-image: files/images/logo_mitnb_cut.png
+image: files/images/logo_mitnb_cut2.png
 about: 
-  template: jolla
+  template: marquee
   image-shape: rectangle
-  image-width: 35em
+  # image-width: 12em
 ---
 
 </center>
 <p> We are a group of scientists interested in improving the validity of time-series measurement in social sciences. <br>
 You can find out more about our motivation and goals [here](about/index.qmd). <br>
-If you want to be added to our mailing list or join our slack channel, get in touch with us via [e-mail](mailto:D.F.Maciejewski@tilburguniversity.edu). <p> 
+If you want to be added to our mailing list or join our slack channel, get in touch with us via [email](mailto:D.F.Maciejewski@tilburguniversity.edu). <p> 
 
 </center>
 <!-- Things to list here: -->
