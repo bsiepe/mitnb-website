@@ -52,7 +52,7 @@ format:
       - styles.css
     toc: true
     page-layout: full
-    fontsize: 1.5em
+    fontsize: 1.4em
 
 editor: visual
 
