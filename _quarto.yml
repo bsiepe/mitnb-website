@@ -25,7 +25,7 @@ website:
     right:
       - icon: envelope
         text: Email us
-        href: "mailto:D.F.Maciejewski@tilburguniversity.edu"
+        href: "mailto:D.F.Maciejewski@tilburguniversity.edu,l.f.bringmann@rug.nl"
       
   page-footer:
     left: |
@@ -53,6 +53,10 @@ format:
     toc: true
     page-layout: full
     fontsize: 1.4em
+    grid: 
+      body-width: 1050px
+      sidebar-width: 200px
+      margin-width: 300px
 
 editor: visual
 

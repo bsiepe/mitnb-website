@@ -4,15 +4,18 @@ image: files/images/logo_mitnb_cut2.png
 about: 
   template: marquee
   image-shape: rectangle
+format:
+  html:
+    page-layout: full
   # image-width: 12em
 ---
 
-</center>
-<p> We are a group of scientists interested in improving the validity of time-series measurement in social sciences. <br>
-You can find out more about our motivation and goals [here](about/index.qmd). <br>
-If you want to be added to our mailing list or join our slack channel, get in touch with us via [email](mailto:D.F.Maciejewski@tilburguniversity.edu). <p> 
+<center>
+  We are a group of scientists interested in improving the validity of time-series measurement in social sciences. <br>
+  You can find out more about our motivation and goals [here](about/index.qmd). <br>
+  If you want to be added to our mailing list or join our slack channel, get in touch with us via [email](mailto:D.F.Maciejewski@tilburguniversity.edu,l.f.bringmann@rug.nl). 
 
-</center>
+<center>
 <!-- Things to list here: -->
 
 <!-- -   Explain homepage content briefly. -->
