@@ -14,7 +14,8 @@ As our initiative grows, we will collect more ongoing projects associated with t
 ## Response Processes in ESM Studies
 
 **Principle Investigator:** Dominique Maciejewski ([Homepage](https://research.tilburguniversity.edu/en/persons/dominique-maciejewski)) \
-**Researcher:** Leonie Schorlepp
+**Researcher:** Leonie Schorlepp \
+**Collaborators:** Miguel Silan, Eiko Fried, Laura Bringmann
 
 **Description:** The Experience Sampling Method (ESM), a technique to study emotions in daily life, is booming among researchers and clinicians. To justify its use, valid measurements are crucial, but recently concerns about the validity of ESM have been voiced. An important source of validity evidence are the response processes that individuals engage in when answering questions about their emotions, specifically how they interpret and respond to these questions. Remarkably, we know very little about the exact response processes in emotion measurement in ESM studies. More importantly, there are concerns that participants are not consistent over time and differ from each other in how they interpret and respond to questions about their emotions. The current project proposes a person-specific approach to identify how individuals interpret and respond to questions about their emotions in ESM studies. Specifically, it will identify how consistent individuals are over time and how they differ from each other in these response processes. Results will generate new hypotheses regarding response processes and provide practical implications for researchers and clinicians using ESM.
 
