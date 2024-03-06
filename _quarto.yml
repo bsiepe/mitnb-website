@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  # title: "Measurement Is The New Black"
+  title: "Measurement Is The New Black"
   image: files/images/logo_mitnb_cut.png
+  description: "We are a group of scientists interested in improving the validity of time-series and other intensive longitudinal measurements in social sciences."
 
   navbar:
     background: primary
     search: true
+    title: false
     left:
       - text: "{{< fa house >}} Home"
         file: index.qmd
