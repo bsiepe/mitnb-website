@@ -3,7 +3,12 @@ title: "People"
 description-meta: "Members of the MITNB consortium"
 ---
 
-This page will be filled with content shortly.
+Below is a screenshot taken at a MITNB online meeting in early 2024 with some of our members.
+
+![](files/images/mitnb_members.png)
+
+More information about individual members is soon to come. 
+
 
 <!-- ```{=html} -->
 
@@ -94,7 +99,9 @@ This page will be filled with content shortly.
 <!--   </div> -->
 
 <!-- </div> -->
+
 <!-- ``` -->
+
 <!-- ```{=html} -->
 
 <!-- <div class="person-card" onclick="toggleCard(this)"> -->
@@ -118,4 +125,5 @@ This page will be filled with content shortly.
 <!--   </div> -->
 
 <!-- </div> -->
+
 <!-- ``` -->
