@@ -4,6 +4,7 @@ image: files/images/logo_mitnb_cut2.png
 about: 
   template: marquee
   image-shape: rectangle
+description-meta: "We are a group of scientists interested in improving the validity of time-series measurement in social sciences."
 format:
   html:
     page-layout: full
