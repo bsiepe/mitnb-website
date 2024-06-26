@@ -15,12 +15,22 @@ We have a strong motivation to feed our results back to the scientific and clini
 
 ## References
 
-**Fisher, A. J., & Boswell, J. F. (2016).** [Enhancing the personalization of psychotherapy with dynamic assessment and modeling.](https://doi.org/10.1177/1073191116638735 ) Assessment, 23(4), 496--506. <br> 
+**Fisher, A. J., & Boswell, J. F. (2016).** [Enhancing the personalization of psychotherapy with dynamic assessment and modeling.](https://doi.org/10.1177/1073191116638735) Assessment, 23(4), 496--506. <br>
 
-**Flake, J. K., & Fried, E. I. (2020).** Measurement Schmeasurement: [Questionable Measurement Practices and How to Avoid Them.](https://doi.org/10.1177/2515245920952393) Advances in Methods and Practices in Psychological Science, 3(4), 456--465.  <br> 
+**Flake, J. K., & Fried, E. I. (2020).** Measurement Schmeasurement: [Questionable Measurement Practices and How to Avoid Them.](https://doi.org/10.1177/2515245920952393) Advances in Methods and Practices in Psychological Science, 3(4), 456--465. <br>
 
-**Kuppens, P., Dejonckheere, E., Kalokerinos, E. K., & Koval, P. (2022).** [Some recommendations on the use of daily life methods in affective science.](https://doi.org/10.1007/s42761-022-00101-0) Affective Science, 3(2), 505--515.  <br> 
+**Kuppens, P., Dejonckheere, E., Kalokerinos, E. K., & Koval, P. (2022).** [Some recommendations on the use of daily life methods in affective science.](https://doi.org/10.1007/s42761-022-00101-0) Affective Science, 3(2), 505--515. <br>
 
-**Mestdagh, M., Verdonck, S., Piot, M., Niemeijer, K., Tuerlinckx, F., Kuppens, P., & Dejonckheere, E. (2022).** [m-Path: An easy-to-use and flexible platform for ecological momentary assessment and intervention in behavioral research and clinical practice.](https://doi.org/10.31234/osf.io/uqdfs) PsyArXiv.  <br> 
+**Mestdagh, M., Verdonck, S., Piot, M., Niemeijer, K., Tuerlinckx, F., Kuppens, P., & Dejonckheere, E. (2022).** [m-Path: An easy-to-use and flexible platform for ecological momentary assessment and intervention in behavioral research and clinical practice.](https://doi.org/10.31234/osf.io/uqdfs) PsyArXiv. <br>
 
-**Myin-Germeys, I., Kasanova, Z., Vaessen, T., Vachon, H., Kirtley, O., Viechtbauer, W., & Reininghaus, U. (2018).** [Experience sampling methodology in mental health research: New insights and technical developments.](https://doi.org/10.1002/WPS.20513) World Psychiatry, 17(2), 123--132.  <br>
+**Myin-Germeys, I., Kasanova, Z., Vaessen, T., Vachon, H., Kirtley, O., Viechtbauer, W., & Reininghaus, U. (2018).** [Experience sampling methodology in mental health research: New insights and technical developments.](https://doi.org/10.1002/WPS.20513) World Psychiatry, 17(2), 123--132. <br>
+
+
+
+## Signup
+Do you want to be added to our mailing list or join our slack channel? Then please fill out this form:
+
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYf4uC3M6HFMo_teTBJEuMIs-Fk74PNf8ws1pE-aok6ZMtHw/viewform?embedded=true" width="650" height="871" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+```
+

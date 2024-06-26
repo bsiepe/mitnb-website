@@ -1,5 +1,6 @@
 ---
 title: ""
+image: files/images/logo_mitnb_cut2.png
 about: 
   template: marquee
   image-shape: rectangle
@@ -11,25 +12,12 @@ format:
 
 
 
-:::: {.columns}
+<center>
+We are a group of scientists interested in improving the validity of time-series measurement in social sciences. <br> You can find out more about our motivation and goals [here](about/index.qmd). <br> If you want to be added to our mailing list or join our slack channel, fill out the form on the bottom of [this](about/index.qmd) page!
+
+<center>
 
 
-::: {.column width="50%"}
-
-![](files/images/logo_mitnb_cut.png){fig-align="center" width="1052"}
-
-We are a group of scientists interested in improving the validity of time-series measurement in social sciences. <br> You can find out more about our motivation and goals [here](about/index.qmd). <br> If you want to be added to our mailing list or join our slack channel, fill out the form to the right!
-
-
-::: 
-
-::: {.column width="50%"}
-```{=html}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYf4uC3M6HFMo_teTBJEuMIs-Fk74PNf8ws1pE-aok6ZMtHw/viewform?embedded=true" width="650" height="871" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-```
-
-::: 
-::::
 
 <!-- Things to list here: -->
 
