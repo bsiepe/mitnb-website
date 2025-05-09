@@ -1,0 +1,28 @@
+---
+title: "Xinkai Du"
+description: "PhD candidate"
+---
+
+# Xinkai Du
+
+![Xinkai Du](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD candidate
+
+## Institution
+
+University of Oslo and Modum Bad Psychiatric Hospital
+
+## Research Interests
+
+(intensive) longitudinal data; psychometrics; measurements
+
+## Contact Information
+
+xinkai.du.xd@gmail.com
+
+## Socials
+
+https://scholar.google.com/citations?user=S6T6kY4AAAAJ&hl=en; @xinkaidu.bsky.social

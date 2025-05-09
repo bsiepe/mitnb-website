@@ -1,0 +1,28 @@
+---
+title: "Björn Siepe"
+description: "PhD Student"
+---
+
+# Björn Siepe
+
+![Björn Siepe](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD Student
+
+## Institution
+
+University of Marburg
+
+## Research Interests
+
+Time Series Analysis, Simulation Studies, Prediction Modeling, Open Science
+
+## Contact Information
+
+bjoernsiepe\@gmail.com
+
+## Socials
+
+https://bsiepe.github.io

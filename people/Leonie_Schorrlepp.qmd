@@ -1,0 +1,28 @@
+---
+title: "Leonie Schorrlepp"
+description: "PhD candidate"
+---
+
+# Leonie Schorrlepp
+
+![Leonie Schorrlepp](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD candidate
+
+## Institution
+
+Tilburg University
+
+## Research Interests
+
+My MITNB interests include integrating qualitative and quantitative methods and data in ESM research as well as more specifically thinking about how qualitative methods and data can fill blind spots left by exclusively quantitative methods.
+
+## Contact Information
+
+l.schorrlepp@tilburguniversity.edu
+
+## Socials
+
+Bluesky: @leonieschorrlepp.bsky.social

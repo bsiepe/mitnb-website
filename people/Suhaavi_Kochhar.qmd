@@ -1,0 +1,29 @@
+---
+title: "Suhaavi Kochhar"
+description: "PhD candidate"
+---
+
+# Suhaavi Kochhar
+
+![Suhaavi Kochhar](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD candidate
+
+## Institution
+
+Radboud University
+
+## Research Interests
+
+I’m interested in making mental health interventions engaging and accessible through digital methods. To do this effectively, we need to improve how we measure complex, subjective experiences. Thus, I’m especially interested in finding better ways to assess these kinds of latent constructs.
+
+## Contact Information
+
+s.kochhar@ru.nl
+
+## Socials
+
+PhD project pages: https://gemhlab.com/games/detour/ https://www.ru.nl/en/research/research-projects/detour 
+Personal Radboud page: https://www.ru.nl/en/people/kochhar-s

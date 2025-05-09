@@ -1,0 +1,28 @@
+---
+title: "Jingmeng Cui"
+description: "PhD student"
+---
+
+# Jingmeng Cui
+
+![Jingmeng Cui](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD student
+
+## Institution
+
+University of Groningen
+
+## Research Interests
+
+My research centers on mathematical and statistical modeling to understand dynamic processes in psychology. I focus on developing nonlinear analysis methods for formal dynamic models and intensive longitudinal data, as well as investigating critical transitions and early warning signals in psychological systems.
+
+## Contact Information
+
+jingmeng.cui@rug.nl
+
+## Socials
+
+https://jingmeng-cui.netlify.app/

@@ -1,0 +1,28 @@
+---
+title: "Leonie V.D.E. Vogelsmeier"
+description: "Assistant Professor"
+---
+
+# Leonie V.D.E. Vogelsmeier
+
+![Leonie V.D.E. Vogelsmeier](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Assistant Professor
+
+## Institution
+
+Tilburg University
+
+## Research Interests
+
+I am working on improving ILD measurement by developing methods for detecting measurement issues (e.g., careless responding or violations of measurement invariance), methods for incorporating measurement models in ILD analyses (e.g., to account for measurement error and heterogeneity in response behavior inherent to self-reports), and methods for preemptively reducing measurement problems (e.g., using personalized planned missingness designs).
+
+## Contact Information
+
+l.v.d.e.vogelsmeier@tilburguniversity.edu
+
+## Socials
+
+https://bsky.app/profile/leonievogelsmeier.bsky.social

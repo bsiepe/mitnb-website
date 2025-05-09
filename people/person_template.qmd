@@ -1,0 +1,28 @@
+---
+title: "{{first_name}} {{last_name}}"
+description: "{{current_position}}"
+---
+
+# {{first_name}} {{last_name}}
+
+![{{first_name}} {{last_name}}](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+{{current_position}}
+
+## Institution
+
+{{institution}}
+
+## Research Interests
+
+{{interests}}
+
+## Contact Information
+
+{{email}}
+
+## Socials
+
+{{socials}}

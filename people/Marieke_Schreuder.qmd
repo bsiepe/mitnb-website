@@ -1,0 +1,28 @@
+---
+title: "Marieke Schreuder"
+description: "Postdoc"
+---
+
+# Marieke Schreuder
+
+![Marieke Schreuder](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Postdoc
+
+## Institution
+
+KU Leuven & Tilburg University
+
+## Research Interests
+
+Predicting vulnerability to mental health problems based on ESM data in real-time; improving methods and analyses for studying emotion dynamics and emotion regulation; exploring JITAI principles
+
+## Contact Information
+
+marieke.schreuder@kuleuven.be
+
+## Socials
+
+NA

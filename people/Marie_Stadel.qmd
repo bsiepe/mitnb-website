@@ -1,0 +1,28 @@
+---
+title: "Marie Stadel"
+description: "PhD candidate"
+---
+
+# Marie Stadel
+
+![Marie Stadel](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD candidate
+
+## Institution
+
+University of Groningen
+
+## Research Interests
+
+I investigate how to capture 'context' (social context, daily activities ) with experience sampling methodology. Next to that I am interested in how qualitative methodology may help in gaining more insight in the valididty of ESM measures and study designs.
+
+## Contact Information
+
+m.stadel@rug.nl
+
+## Socials
+
+NA

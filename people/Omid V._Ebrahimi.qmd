@@ -1,0 +1,28 @@
+---
+title: "Omid V. Ebrahimi"
+description: "Research Fellow"
+---
+
+# Omid V. Ebrahimi
+
+![Omid V. Ebrahimi](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Research Fellow
+
+## Institution
+
+University of Oxford
+
+## Research Interests
+
+Time-series; EMA; Measurement; Dynamic Modelling
+
+## Contact Information
+
+omid.ebrahimi@psy.ox.ac.uk
+
+## Socials
+
+NA

@@ -1,0 +1,28 @@
+---
+title: "Guðrún Guðmundsdóttir"
+description: "PhD student"
+---
+
+# Guðrún Guðmundsdóttir
+
+![Guðrún Guðmundsdóttir](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD student
+
+## Institution
+
+Maastricht University
+
+## Research Interests
+
+I'm interested in all things ESM, particularly in response processes (e.g., how do people interpret and use slider scales?), time-scale considerations (e.g., how frequently should we measure a construct based on its variability in daily life?), and the why and how of using open-text responses (e.g., what is the added value of written responses beyond what we can infer from closed items?).
+
+## Contact Information
+
+gudrun.rut.gudmundsdottir@gmail.com
+
+## Socials
+
+NA

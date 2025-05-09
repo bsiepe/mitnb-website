@@ -3,127 +3,66 @@ title: "People"
 description-meta: "Members of the MITNB consortium"
 ---
 
-Below is a screenshot taken at a MITNB online meeting in early 2024 with some of our members.
+Below is a group photo taken at the MITNB Lorentz Center Workshop in Leiden (2024).
 
-![](files/images/mitnb_members.png)
+![](files/images/lorentz_group-photo.jpg)
 
-More information about individual members is soon to come. 
+More information about individual members is soon to come.
 
+```{=html}
+<style>
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+  .person-card {
+    width: 100%;
+    height: 260px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px 10px 10px 10px;
+    cursor: pointer;
+    transition: box-shadow 0.2s, transform 0.2s;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+  }
+  .person-card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    transform: translateY(-2px) scale(1.03);
+  }
+  .person-card img {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #f9f9f9;
+    margin-bottom: 18px;
+    border: 1px solid #eee;
+    flex-shrink: 0;
+  }
+  .person-card h3 {
+    margin: 0;
+    font-size: 1.08em;
+    font-weight: 600;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    line-height: 1.2;
+  }
+</style>
+```
 
-<!-- ```{=html} -->
-
-<!-- <style> -->
-
-<!--   .person-card { -->
-
-<!--     cursor: pointer; -->
-
-<!--     border: 2px solid #ccc; -->
-
-<!--     padding: 20px; -->
-
-<!--     margin: 10px; -->
-
-<!--     width: 250px; -->
-
-<!--     transition: all 0.3s; -->
-
-<!--     display: flex; -->
-
-<!--     align-items: center; -->
-
-<!--   } -->
-
-<!--   .person-card.clicked { -->
-
-<!--     width: 500px; /* Adjust the width as needed */ -->
-
-<!--   } -->
-
-<!--   .person-card .content-wrapper { -->
-
-<!--     display: none; -->
-
-<!--     flex-grow: 1; -->
-
-<!--     padding-right: 20px; -->
-
-<!--   } -->
-
-<!--   .person-card.clicked .content-wrapper { -->
-
-<!--     display: block; -->
-
-<!--   } -->
-
-<!--   .person-card img { -->
-
-<!--     max-width: 100%; -->
-
-<!--     height: auto; -->
-
-<!--     margin-top: 7px;  -->
-
-<!--   } -->
-
-<!-- </style> -->
-
-<!-- <script> -->
-
-<!--   function toggleCard(card) { -->
-
-<!--     card.classList.toggle('clicked'); -->
-
-<!--   } -->
-
-<!-- </script> -->
-
-<!-- <div class="person-card" onclick="toggleCard(this)"> -->
-
-<!--   <h3>Person One</h3> -->
-
-<!--   <img src="files/images/bjoern_test.jpg" alt="Person Image"> -->
-
-<!--   <div class="content-wrapper"> -->
-
-<!--     <ul> -->
-
-<!--       <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li> -->
-
-<!--       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li> -->
-
-<!--       <li><strong>Contact Information:</strong> Email: person@example.com</li> -->
-
-<!--     </ul> -->
-
-<!--   </div> -->
-
-<!-- </div> -->
-
-<!-- ``` -->
-
-<!-- ```{=html} -->
-
-<!-- <div class="person-card" onclick="toggleCard(this)"> -->
-
-<!--   <h3>Person Two</h3> -->
-
-<!--   <img src="files/images/bjoern_test.jpg" alt="Person Image"> -->
-
-<!--   <div class="content-wrapper"> -->
-
-<!--     <ul> -->
-
-<!--       <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li> -->
-
-<!--       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li> -->
-
-<!--       <li><strong>Contact Information:</strong> Email: person@example.com</li> -->
-
-<!--     </ul> -->
-
-<!--   </div> -->
-
-<!-- </div> -->
-
-<!-- ``` -->
+```{=html}
+<div class="card-grid">
+  {{< include files/members_cards.html >}}
+</div>
+```

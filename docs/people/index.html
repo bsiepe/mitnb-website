@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.4.542">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -150,68 +150,156 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Below is a screenshot taken at a MITNB online meeting in early 2024 with some of our members.</p>
-<p><img src="files/images/mitnb_members.png" class="img-fluid"></p>
+<p>Below is a group photo taken at the MITNB Lorentz Center Workshop in Leiden (2024).</p>
+<p><img src="files/images/lorentz_group-photo.jpg" class="img-fluid"></p>
 <p>More information about individual members is soon to come.</p>
-<!-- ```{=html} -->
-<!-- <style> -->
-<!--   .person-card { -->
-<!--     cursor: pointer; -->
-<!--     border: 2px solid #ccc; -->
-<!--     padding: 20px; -->
-<!--     margin: 10px; -->
-<!--     width: 250px; -->
-<!--     transition: all 0.3s; -->
-<!--     display: flex; -->
-<!--     align-items: center; -->
-<!--   } -->
-<!--   .person-card.clicked { -->
-<!--     width: 500px; /* Adjust the width as needed */ -->
-<!--   } -->
-<!--   .person-card .content-wrapper { -->
-<!--     display: none; -->
-<!--     flex-grow: 1; -->
-<!--     padding-right: 20px; -->
-<!--   } -->
-<!--   .person-card.clicked .content-wrapper { -->
-<!--     display: block; -->
-<!--   } -->
-<!--   .person-card img { -->
-<!--     max-width: 100%; -->
-<!--     height: auto; -->
-<!--     margin-top: 7px;  -->
-<!--   } -->
-<!-- </style> -->
-<!-- <script> -->
-<!--   function toggleCard(card) { -->
-<!--     card.classList.toggle('clicked'); -->
-<!--   } -->
-<!-- </script> -->
-<!-- <div class="person-card" onclick="toggleCard(this)"> -->
-<!--   <h3>Person One</h3> -->
-<!--   <img src="files/images/bjoern_test.jpg" alt="Person Image"> -->
-<!--   <div class="content-wrapper"> -->
-<!--     <ul> -->
-<!--       <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li> -->
-<!--       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li> -->
-<!--       <li><strong>Contact Information:</strong> Email: person@example.com</li> -->
-<!--     </ul> -->
-<!--   </div> -->
-<!-- </div> -->
-<!-- ``` -->
-<!-- ```{=html} -->
-<!-- <div class="person-card" onclick="toggleCard(this)"> -->
-<!--   <h3>Person Two</h3> -->
-<!--   <img src="files/images/bjoern_test.jpg" alt="Person Image"> -->
-<!--   <div class="content-wrapper"> -->
-<!--     <ul> -->
-<!--       <li><strong>Position:</strong> Assistant Professor, Psychometrics, MITNB University</li> -->
-<!--       <li><strong>Research Interests:</strong> Machine Learning, Data Visualization</li> -->
-<!--       <li><strong>Contact Information:</strong> Email: person@example.com</li> -->
-<!--     </ul> -->
-<!--   </div> -->
-<!-- </div> -->
-<!-- ``` -->
+<style>
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+  .person-card {
+    width: 100%;
+    height: 260px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px 10px 10px 10px;
+    cursor: pointer;
+    transition: box-shadow 0.2s, transform 0.2s;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+  }
+  .person-card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    transform: translateY(-2px) scale(1.03);
+  }
+  .person-card img {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #f9f9f9;
+    margin-bottom: 18px;
+    border: 1px solid #eee;
+    flex-shrink: 0;
+  }
+  .person-card h3 {
+    margin: 0;
+    font-size: 1.08em;
+    font-weight: 600;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    line-height: 1.2;
+  }
+</style>
+<div class="card-grid">
+<div class="person-card" onclick="window.location.href='people/Jessica_Fritz.html'">
+  <img src="files/images/Fritz.jpg" alt="Jessica Fritz's Image">
+  <h3 class="anchored">Jessica Fritz</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Joseph_Maimone.html'">
+  <img src="files/images/Maimone.jpg" alt="Joseph Maimone's Image">
+  <h3 class="anchored">Joseph Maimone</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Charlotte_Vrijen.html'">
+  <img src="files/images/Vrijen.jpg" alt="Charlotte Vrijen's Image">
+  <h3 class="anchored">Charlotte Vrijen</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Suhaavi_Kochhar.html'">
+  <img src="files/images/Kochhar.jpg" alt="Suhaavi Kochhar's Image">
+  <h3 class="anchored">Suhaavi Kochhar</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Jingmeng_Cui.html'">
+  <img src="files/images/Cui.jpg" alt="Jingmeng Cui's Image">
+  <h3 class="anchored">Jingmeng Cui</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Jonas_Haslbeck.html'">
+  <img src="files/images/Haslbeck.jpg" alt="Jonas Haslbeck's Image">
+  <h3 class="anchored">Jonas Haslbeck</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Dominique_Maciejewski.html'">
+  <img src="files/images/Maciejewski.jpg" alt="Dominique Maciejewski's Image">
+  <h3 class="anchored">Dominique Maciejewski</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Shirley_Wang.html'">
+  <img src="files/images/Wang.jpg" alt="Shirley Wang's Image">
+  <h3 class="anchored">Shirley Wang</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Björn_Siepe.html'">
+  <img src="files/images/Siepe.jpg" alt="Björn Siepe's Image">
+  <h3 class="anchored">Björn Siepe</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Marieke A._Helmich.html'">
+  <img src="files/images/Helmich.jpg" alt="Marieke A. Helmich's Image">
+  <h3 class="anchored">Marieke A. Helmich</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Leonie_Schorrlepp.html'">
+  <img src="files/images/Schorrlepp.jpg" alt="Leonie Schorrlepp's Image">
+  <h3 class="anchored">Leonie Schorrlepp</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Leonie V.D.E._Vogelsmeier.html'">
+  <img src="files/images/Vogelsmeier.jpg" alt="Leonie V.D.E. Vogelsmeier's Image">
+  <h3 class="anchored">Leonie V.D.E. Vogelsmeier</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Omid V._Ebrahimi.html'">
+  <img src="files/images/Ebrahimi.jpg" alt="Omid V. Ebrahimi's Image">
+  <h3 class="anchored">Omid V. Ebrahimi</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Marie_Stadel.html'">
+  <img src="files/images/Stadel.jpg" alt="Marie Stadel's Image">
+  <h3 class="anchored">Marie Stadel</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Olivia_Kirtley.html'">
+  <img src="files/images/Kirtley.jpg" alt="Olivia Kirtley's Image">
+  <h3 class="anchored">Olivia Kirtley</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Eiko_Fried.html'">
+  <img src="files/images/Fried.jpg" alt="Eiko Fried's Image">
+  <h3 class="anchored">Eiko Fried</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Marieke_Schreuder.html'">
+  <img src="files/images/Schreuder.jpg" alt="Marieke Schreuder's Image">
+  <h3 class="anchored">Marieke Schreuder</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Xinkai_Du.html'">
+  <img src="files/images/Du.jpg" alt="Xinkai Du's Image">
+  <h3 class="anchored">Xinkai Du</h3>
+</div>
+
+<div class="person-card" onclick="window.location.href='people/Guðrún_Guðmundsdóttir.html'">
+  <img src="files/images/Guðmundsdóttir.jpg" alt="Guðrún Guðmundsdóttir's Image">
+  <h3 class="anchored">Guðrún Guðmundsdóttir</h3>
+</div>
+
+
+</div>
 
 
 
@@ -295,24 +383,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -347,11 +417,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
+      return note.innerHTML;
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -399,12 +465,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
+      return note.innerHTML;
     }
   }
   for (var i=0; i<xrefs.length; i++) {

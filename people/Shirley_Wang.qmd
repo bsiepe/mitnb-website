@@ -1,0 +1,28 @@
+---
+title: "Shirley Wang"
+description: "Assistant Professor"
+---
+
+# Shirley Wang
+
+![Shirley Wang](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Assistant Professor
+
+## Institution
+
+Yale University
+
+## Research Interests
+
+Mental health disorders are incredibly complex and dynamic phenomena that vary within people, between people, and across time. My research program aims to develop and harness novel methods that can capture and model this complexity, with a focus on suicide, nonsuicidal self-injury, and eating disorders. To do so, I integrate methods from across the clinical and computational sciences, including machine learning, mathematical modeling, and ambulatory assessment (e.g., via smartphones and wearables). A central focus of this work is on formalizing theories of psychopathology, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives.
+
+## Contact Information
+
+shirley.wang@yale.edu
+
+## Socials
+
+https://ccslab.yale.edu/

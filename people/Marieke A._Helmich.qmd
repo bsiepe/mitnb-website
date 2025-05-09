@@ -1,0 +1,28 @@
+---
+title: "Marieke A. Helmich"
+description: "Postdoctoral research fellow"
+---
+
+# Marieke A. Helmich
+
+![Marieke A. Helmich](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Postdoctoral research fellow
+
+## Institution
+
+University of Oslo
+
+## Research Interests
+
+Change processes in emotion and symptom time series; Meaningful measurement
+
+## Contact Information
+
+marieke.a.helmich@gmail.com
+
+## Socials
+
+www.mariekehelmich.com, mahelmich.bsky.social, @MariekeHelmich

@@ -1,0 +1,28 @@
+---
+title: "Joseph Maimone"
+description: "PhD Student, Clinical Psychology"
+---
+
+# Joseph Maimone
+
+![Joseph Maimone](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+PhD Student, Clinical Psychology
+
+## Institution
+
+Boston University
+
+## Research Interests
+
+I am currently working on idiographic modeling of loneliness within the framework of the Social Homeostasis Theory with the goal to better describe and understand the heterogeneity of experiences of loneliness.
+
+## Contact Information
+
+jmaimone@bu.edu
+
+## Socials
+
+www.linkedin.com/in/maimonejoseph

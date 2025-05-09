@@ -1,0 +1,28 @@
+---
+title: "Jonas Haslbeck"
+description: "Postdoc"
+---
+
+# Jonas Haslbeck
+
+![Jonas Haslbeck](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Postdoc
+
+## Institution
+
+University of Amsterdam
+
+## Research Interests
+
+formal theories; computational models; time series modeling; modeling heterogeneity, mechanism research; measurement scales
+
+## Contact Information
+
+jonashaslbeck@protonmail.com
+
+## Socials
+
+www.jonashaslbeck.com

@@ -1,0 +1,28 @@
+---
+title: "Olivia Kirtley"
+description: "Assistant Research Professor"
+---
+
+# Olivia Kirtley
+
+![Olivia Kirtley](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Assistant Research Professor
+
+## Institution
+
+Center for Centextual Psychiatry, KU Leuven
+
+## Research Interests
+
+I am especially interested in measurement issues and practices in the context of clinical psychology/psychiatry research. I lead the ESM Item Repository, an open science initiative to increase measurement transparency and quality in ESM research.
+
+## Contact Information
+
+olivia.kirtley@kuleuven.be
+
+## Socials
+
+ESM Item Repository search portal: www.esmitemrepository.com. Personal Bluesky: @oliviajkirtley.bsky.social. X: @LivveyKirtley

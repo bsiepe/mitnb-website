@@ -1,0 +1,28 @@
+---
+title: "Eiko Fried"
+description: "Associate Professor"
+---
+
+# Eiko Fried
+
+![Eiko Fried](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Associate Professor
+
+## Institution
+
+Leiden University
+
+## Research Interests
+
+My interests are how to best describe, predict, and understand mental health problems, which I understand as emergent properties that arise from dynamical systems. Measurement of dynamic properties plays a crucial role for each of these steps.
+
+## Contact Information
+
+eiko.fried@gmail.com
+
+## Socials
+
+eiko-fried.com; X/Twitter @EikoFried; BlueSky @eikofried.bsky.social

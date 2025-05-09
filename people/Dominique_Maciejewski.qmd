@@ -1,0 +1,28 @@
+---
+title: "Dominique Maciejewski"
+description: "Assistant Professor"
+---
+
+# Dominique Maciejewski
+
+![Dominique Maciejewski](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Assistant Professor
+
+## Institution
+
+Tilburg University
+
+## Research Interests
+
+Response processes in ESM studies (i.e. how people interpret and respond to our questions) using a mixed method approach
+
+## Contact Information
+
+D.f.maciejewski@tilburguniversity.edu
+
+## Socials
+
+NA

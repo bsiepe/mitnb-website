@@ -1,0 +1,28 @@
+---
+title: "Charlotte Vrijen"
+description: "Assistant professor"
+---
+
+# Charlotte Vrijen
+
+![Charlotte Vrijen](files/images/%7B%7Blast_name%7D%7D.jpg)
+
+## Position
+
+Assistant professor
+
+## Institution
+
+University of Groningen
+
+## Research Interests
+
+Combining qualitative and quantitative EMA; combining EMA with real-time (video) observations; studying how to best measure emotion-regulation in children; studying at which time-scales and in what contexts emotional rigidity and flexibility are adaptive.
+
+## Contact Information
+
+c.vrijen@rug.nl
+
+## Socials
+
+https://charlottevrijen.com; https://bit.ly/Optimisme_onderzoek (in Dutch); @charlottev.bsky.social; on X: @CharlotteVrijen
