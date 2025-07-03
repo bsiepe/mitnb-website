@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "people/files/**"
 
 website:
   title: "Measurement Is The New Black"
