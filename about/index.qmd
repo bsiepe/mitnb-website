@@ -17,16 +17,6 @@ As a response to this lack of research focusing on validity and reliability, we 
 
 We have a strong motivation to feed our results back to the scientific and clinical community. Thus, in the upcoming decade we will not only conduct a number of studies on psychometrics in ESM, but also summarise concrete recommendations on how to better measure in ESM research.
 
-## References
-
-**Flake, J. K., & Fried, E. I. (2020).** Measurement Schmeasurement: [Questionable Measurement Practices and How to Avoid Them.](https://doi.org/10.1177/2515245920952393) Advances in Methods and Practices in Psychological Science, 3(4), 456--465. <br>
-
-**Kuppens, P., Dejonckheere, E., Kalokerinos, E. K., & Koval, P. (2022).** [Some recommendations on the use of daily life methods in affective science.](https://doi.org/10.1007/s42761-022-00101-0) Affective Science, 3(2), 505--515. <br>
-
-**Mestdagh, M., Verdonck, S., Piot, M., Niemeijer, K., Tuerlinckx, F., Kuppens, P., & Dejonckheere, E. (2022).** [m-Path: An easy-to-use and flexible platform for ecological momentary assessment and intervention in behavioral research and clinical practice.](https://doi.org/10.31234/osf.io/uqdfs) PsyArXiv. <br>
-
-**Myin-Germeys, I., Kasanova, Z., Vaessen, T., Vachon, H., Kirtley, O., Viechtbauer, W., & Reininghaus, U. (2018).** [Experience sampling methodology in mental health research: New insights and technical developments.](https://doi.org/10.1002/WPS.20513) World Psychiatry, 17(2), 123--132. <br>
-
 ## Signup
 
 Are you interested in EMA and want to improve its measurement? Sign-up below! With our consortium, we want to facilitate (international) collaborations between researchers/clinicians with complementary expertise. For some of our recent contributions, see the [Literature Overview](../literature/).
