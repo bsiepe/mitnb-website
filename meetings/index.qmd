@@ -27,19 +27,19 @@ We also had two roundtable panel sessions which explored critical methodological
 
 A main part of the meeting were the hackathons, during which participants worked on concrete measurement issues. Examples of these topics were: differences in interpretations of PHQ-9 items, real-time dynamics of response processes during emotion rating, and the accuracy and consistency of Visual Analog Scales (VAS).
 
-The meeting facilitated in-depth methodological exchange, fostered interdisciplinary collaboration, and led to several newly initiated joint research projects. Please see the [Literature Overview](literature/index.qmd) for some of the outputs.
+The meeting facilitated in-depth methodological exchange, fostered interdisciplinary collaboration, and led to several newly initiated joint research projects. Please see the [Literature Overview](../literature/index.qmd) for some of the outputs.
 
 ### Photos from MITNB workshop 2024
 
-![All participants of the MITNB workshop 2024 in Leiden, the Netherlands](files/mitnb2024_3.jpg) 
+![All participants of the MITNB workshop 2024 in Leiden, the Netherlands](files/mitnb2024_3.jpg)
 
-![Keynote by Denny Boorsboom on the state-of-the-art on measurement](files/mitnb2024_7.jpg) 
+![Keynote by Denny Boorsboom on the state-of-the-art on measurement](files/mitnb2024_7.jpg)
 
-![Breaking the ice activity](files/mitnb2024_2.jpg) 
+![Breaking the ice activity](files/mitnb2024_2.jpg)
 
-![Hackathon on exploring response processes in ESM](files/mitnb2024_4.jpg) 
+![Hackathon on exploring response processes in ESM](files/mitnb2024_4.jpg)
 
-![Roundtable discussion on qualitative versus quantiative methods](files/mitnb2024_5.jpg) 
+![Roundtable discussion on qualitative versus quantiative methods](files/mitnb2024_5.jpg)
 
 ![Organizing team of the MITNB annual meeting 2024](files/mitnb2024_1.jpg)
 
