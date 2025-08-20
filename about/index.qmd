@@ -3,19 +3,21 @@ title: "What is this all about?"
 description-meta: "Description of MITNB"
 ---
 
-Experience Sampling Methods (ESM) have gained tremendous popularity in studying dynamic processes in daily life. In ESM, individuals rate their emotions, thoughts, and behaviours multiple times per day across days, weeks or months using smartphone apps. The data obtained with ESM allow zooming into dynamic processes as they unfold in real-time in daily life. Due to technological advances of the past decades, ESM research is booming in research (Myin-Germeys et al., 2018) and has found its way into clinical practice (Mestdagh et al., 2022).
+Experience Sampling Methods (ESM) have gained tremendous popularity in studying dynamic processes in daily life. In ESM, individuals rate their emotions, thoughts, and behaviours multiple times per day across days, weeks or months using smartphone apps. The data obtained with ESM allow zooming into dynamic processes as they unfold in real time in daily life. Due to technological advances of the past decades, ESM research is booming in research ([Myin-Germeys et al., 2018](https://doi.org/10.1002/WPS.20513)) and has found its way into clinical practice ([Mestdagh et al., 2022](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1182175/full)).
 
-To justify the use of ESM, valid measurements are crucial. Surprisingly, in contrast to a long history of psychometric evaluations regarding relatively stable traits (e.g., intelligence), much less attention has been paid to measurement in ESM (Kuppens et al., 2022). Along with good theory, proper measurement is imperative to drawing valid conclusions (Flake & Fried, 2020).
+To justify the use of ESM, valid measurements are crucial. Surprisingly, in contrast to a long history of psychometric evaluations regarding relatively stable traits (e.g., intelligence), much less attention has been paid to measurement in ESM ([Kuppens et al., 2022](https://doi.org/10.1007/s42761-022-00101-0)). Along with good theory, proper measurement is imperative to drawing valid conclusions ([Flake & Fried, 2020](https://doi.org/10.1177/2515245920952393)).
 
-As a response to this lack of research focussing on validity and reliability, we formed the "Measurement is the New Black" (MITNB) consortium in 2022. The MITNB is an interdisciplinary consortium consisting of international researchers and clinicians, with expertise in quantitative statistics, qualitative methods, philosophy of science, clinical and developmental psychology that aims to improve the validity and reliability of ESM in the social sciences. Together, we come up with new innovative ways to address some core questions, such as:
+As a response to this lack of research focusing on validity and reliability, we formed the “Measurement is the New Black” (MITNB) consortium in 2022. The MITNB is an interdisciplinary consortium consisting of international researchers and clinicians, with expertise in quantitative statistics, qualitative methods, philosophy of science, clinical and developmental psychology that aims to improve the validity and reliability of ESM in the social sciences. Together, we come up with innovative ways to address core questions, such as:
 
-> Are certain emotional dynamics really related to mental health or is that just a result of differences in scale use? <br> What is the influence of measurement reactivity during ESM assessments? <br> What are underlying response processes in participants and how do these differ between people?
+> Are certain emotional dynamics really related to mental health or is that just a result of differences in scale use?
+>
+> What is the influence of measurement reactivity during ESM assessments?
+>
+> What are underlying response processes in participants and how do these differ between people?
 
 We have a strong motivation to feed our results back to the scientific and clinical community. Thus, in the upcoming decade we will not only conduct a number of studies on psychometrics in ESM, but also summarise concrete recommendations on how to better measure in ESM research.
 
 ## References
-
-**Fisher, A. J., & Boswell, J. F. (2016).** [Enhancing the personalization of psychotherapy with dynamic assessment and modeling.](https://doi.org/10.1177/1073191116638735) Assessment, 23(4), 496--506. <br>
 
 **Flake, J. K., & Fried, E. I. (2020).** Measurement Schmeasurement: [Questionable Measurement Practices and How to Avoid Them.](https://doi.org/10.1177/2515245920952393) Advances in Methods and Practices in Psychological Science, 3(4), 456--465. <br>
 
@@ -28,7 +30,10 @@ We have a strong motivation to feed our results back to the scientific and clini
 
 
 ## Signup
-Do you want to be added to our mailing list or join our slack channel? Then please fill out this form:
+Are you interested in EMA and want to improve its measurement? Sign-up below! With our consortium, we want to facilitate (international) collaborations between researchers/clinicians with complementary expertise. For some of our recent contributions, see the [Literature Overview](literature/index.qmd).
+
+We meet four times per year online, have a lively Slack community, and organize regular in-person meetings (see the [In-person meetings](meetings/index.qmd) page).
+
 
 ```{=html}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYf4uC3M6HFMo_teTBJEuMIs-Fk74PNf8ws1pE-aok6ZMtHw/viewform?embedded=true" width="650" height="871" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

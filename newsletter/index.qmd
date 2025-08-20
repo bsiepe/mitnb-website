@@ -1,0 +1,6 @@
+---
+title: "Newsletter"
+description-meta: "MITNB Newsletter"
+---
+
+Since 2025, we also publish a newsletter four times a year. You can find them here.

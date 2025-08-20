@@ -16,16 +16,16 @@ website:
     left:
       - text: "{{< fa house >}} Home"
         file: index.qmd
-      # - text: "{{< fa brands slack >}} Slack"
-        # file: extra/slack.qmd
       - text: "{{< fa circle-info >}} About"
         file: about/index.qmd
       - text: "{{< fa book >}} Literature"
         href: literature/index.qmd
       - text: "{{< fa people-group >}} People"
         href: people/index.qmd
-      - text: "{{< fa list-ul >}} Projects"
-        href: projects/index.qmd
+      - text: "{{< fa calendar-days >}} Meetings"
+        href: meetings/index.qmd
+      - text: "{{< fa envelope-open-text >}} Newsletter"
+        href: newsletter/index.qmd
     right:
       - icon: envelope
         text: Email us
@@ -38,7 +38,7 @@ website:
        
     center: |
         <span class="faux-block"><a href="https://github.com/bsiepe/mitnb-website">{{< fa brands github >}} Source Code</a></span>
-        <span class="faux-block"><a href="https://osf.io/m2v38/">{{< ai osf >}} OSF </a></span>
+    # <span class="faux-block"><a href="https://osf.io/m2v38/">{{< ai osf >}} OSF </a></span>
     # right:
     #   - text: "Impressum"
     #     href: extra/impressum.qmd

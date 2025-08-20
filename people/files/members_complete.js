@@ -36,17 +36,6 @@ const rawMembersData = [
     "image_url": "files/images/Vogelsmeier.jpg"
   },
   {
-    "id": "Xinkai_Du",
-    "first_name": "Xinkai",
-    "last_name": "Du",
-    "current_position": "PhD candidate",
-    "institution": "University of Oslo and Modum Bad Psychiatric Hospital",
-    "interests": "(intensive) longitudinal data; psychometrics; measurements",
-    "socials": "https://scholar.google.com/citations?user=S6T6kY4AAAAJ&hl=en; @xinkaidu.bsky.social",
-    "email": "xinkai.du.xd@gmail.com",
-    "image_url": "files/images/Du.jpg"
-  },
-  {
     "id": "Jingmeng_Cui",
     "first_name": "Jingmeng",
     "last_name": "Cui",
@@ -91,15 +80,15 @@ const rawMembersData = [
     "image_url": "files/images/Kochhar.jpg"
   },
   {
-    "id": "Charlotte_Vrijen",
-    "first_name": "Charlotte",
-    "last_name": "Vrijen",
-    "current_position": "Assistant professor",
-    "institution": "University of Groningen",
-    "interests": "Combining qualitative and quantitative EMA; combining EMA with real-time (video) observations; studying how to best measure emotion-regulation in children; studying at which time-scales and in what contexts emotional rigidity and flexibility are adaptive.",
-    "socials": "https://charlottevrijen.com; https://bit.ly/Optimisme_onderzoek (in Dutch); @charlottev.bsky.social; on X: @CharlotteVrijen",
-    "email": "c.vrijen@rug.nl",
-    "image_url": "files/images/Vrijen.jpg"
+    "id": "Xinkai_Du",
+    "first_name": "Xinkai",
+    "last_name": "Du",
+    "current_position": "PhD candidate",
+    "institution": "University of Oslo and Modum Bad Psychiatric Hospital",
+    "interests": "(intensive) longitudinal data; psychometrics; measurements",
+    "socials": "https://scholar.google.com/citations?user=S6T6kY4AAAAJ&hl=en; @xinkaidu.bsky.social",
+    "email": "xinkai.du.xd@gmail.com",
+    "image_url": "files/images/Du.jpg"
   },
   {
     "id": "Joseph_Maimone",
@@ -113,6 +102,17 @@ const rawMembersData = [
     "image_url": "files/images/Maimone.jpg"
   },
   {
+    "id": "Dominique_Maciejewski",
+    "first_name": "Dominique",
+    "last_name": "Maciejewski",
+    "current_position": "Assistant Professor",
+    "institution": "Tilburg University",
+    "interests": "Response processes in ESM studies (i.e. how people interpret and respond to our questions) using a mixed method approach",
+    "socials": "",
+    "email": "D.f.maciejewski@tilburguniversity.edu",
+    "image_url": "files/images/Maciejewski.jpg"
+  },
+  {
     "id": "Omid V._Ebrahimi",
     "first_name": "Omid V.",
     "last_name": "Ebrahimi",
@@ -122,17 +122,6 @@ const rawMembersData = [
     "socials": "",
     "email": "omid.ebrahimi@psy.ox.ac.uk",
     "image_url": "files/images/Ebrahimi.jpg"
-  },
-  {
-    "id": "Marieke A._Helmich",
-    "first_name": "Marieke A.",
-    "last_name": "Helmich",
-    "current_position": "Postdoctoral research fellow",
-    "institution": "University of Oslo",
-    "interests": "Change processes in emotion and symptom time series; Meaningful measurement",
-    "socials": "www.mariekehelmich.com, mahelmich.bsky.social, @MariekeHelmich",
-    "email": "marieke.a.helmich@gmail.com",
-    "image_url": "files/images/Helmich.jpg"
   },
   {
     "id": "Olivia_Kirtley",
@@ -146,15 +135,15 @@ const rawMembersData = [
     "image_url": "files/images/Kirtley.jpg"
   },
   {
-    "id": "Guðrún_Guðmundsdóttir",
-    "first_name": "Guðrún",
-    "last_name": "Guðmundsdóttir",
-    "current_position": "PhD student",
-    "institution": "Maastricht University",
-    "interests": "I'm interested in all things ESM, particularly in response processes (e.g., how do people interpret and use slider scales?), time-scale considerations (e.g., how frequently should we measure a construct based on its variability in daily life?), and the why and how of using open-text responses (e.g., what is the added value of written responses beyond what we can infer from closed items?).",
-    "socials": "",
-    "email": "gudrun.rut.gudmundsdottir@gmail.com",
-    "image_url": "files/images/Guðmundsdóttir.jpg"
+    "id": "Jessica_Fritz",
+    "first_name": "Jessica",
+    "last_name": "Fritz",
+    "current_position": "Senior Postdoctoral Research Fellow & Psychotherapist Trainee",
+    "institution": "University of Osnabrück",
+    "interests": "By bringing together quantitative and qualitative research methods for intensive longitudinal data, I aim to study a) what components – in addition to psycho(patho)logical symptoms – are particularly relevant for a meaningful \"mental health\" assessment, b) how these components can be captured with monitoring and outcome tools, and c) how we can best add personalized components to these monitoring and outcome tools. My hope is that this line of research can eventually enable a comprehensive and personally-relevant mental health assessment for psychosocial intervention settings.",
+    "socials": "https://jessica-fritz.com/; @DrJessicaFritz",
+    "email": "jessica.fritz@uni-osnabrueck.de & jf585@cantab.ac.uk",
+    "image_url": "files/images/Fritz.jpg"
   },
   {
     "id": "Björn_Siepe",
@@ -168,17 +157,6 @@ const rawMembersData = [
     "image_url": "files/images/Siepe.jpg"
   },
   {
-    "id": "Dominique_Maciejewski",
-    "first_name": "Dominique",
-    "last_name": "Maciejewski",
-    "current_position": "Assistant Professor",
-    "institution": "Tilburg University",
-    "interests": "Response processes in ESM studies (i.e. how people interpret and respond to our questions) using a mixed method approach",
-    "socials": "",
-    "email": "D.f.maciejewski@tilburguniversity.edu",
-    "image_url": "files/images/Maciejewski.jpg"
-  },
-  {
     "id": "Shirley_Wang",
     "first_name": "Shirley",
     "last_name": "Wang",
@@ -190,15 +168,15 @@ const rawMembersData = [
     "image_url": "files/images/Wang.jpg"
   },
   {
-    "id": "Jessica_Fritz",
-    "first_name": "Jessica",
-    "last_name": "Fritz",
-    "current_position": "Senior Postdoctoral Research Fellow & Psychotherapist Trainee",
-    "institution": "University of Osnabrück",
-    "interests": "By bringing together quantitative and qualitative research methods for intensive longitudinal data, I aim to study a) what components – in addition to psycho(patho)logical symptoms – are particularly relevant for a meaningful \"mental health\" assessment, b) how these components can be captured with monitoring and outcome tools, and c) how we can best add personalized components to these monitoring and outcome tools. My hope is that this line of research can eventually enable a comprehensive and personally-relevant mental health assessment for psychosocial intervention settings.",
-    "socials": "https://jessica-fritz.com/; @DrJessicaFritz",
-    "email": "jessica.fritz@uni-osnabrueck.de & jf585@cantab.ac.uk",
-    "image_url": "files/images/Fritz.jpg"
+    "id": "Charlotte_Vrijen",
+    "first_name": "Charlotte",
+    "last_name": "Vrijen",
+    "current_position": "Assistant professor",
+    "institution": "University of Groningen",
+    "interests": "Combining qualitative and quantitative EMA; combining EMA with real-time (video) observations; studying how to best measure emotion-regulation in children; studying at which time-scales and in what contexts emotional rigidity and flexibility are adaptive.",
+    "socials": "https://charlottevrijen.com; https://bit.ly/Optimisme_onderzoek (in Dutch); @charlottev.bsky.social; on X: @CharlotteVrijen",
+    "email": "c.vrijen@rug.nl",
+    "image_url": "files/images/Vrijen.jpg"
   },
   {
     "id": "Marieke_Schreuder",
@@ -210,6 +188,39 @@ const rawMembersData = [
     "socials": "",
     "email": "marieke.schreuder@kuleuven.be",
     "image_url": "files/images/Schreuder.jpg"
+  },
+  {
+    "id": "Guðrún_Guðmundsdóttir",
+    "first_name": "Guðrún",
+    "last_name": "Guðmundsdóttir",
+    "current_position": "PhD student",
+    "institution": "Maastricht University",
+    "interests": "I'm interested in all things ESM, particularly in response processes (e.g., how do people interpret and use slider scales?), time-scale considerations (e.g., how frequently should we measure a construct based on its variability in daily life?), and the why and how of using open-text responses (e.g., what is the added value of written responses beyond what we can infer from closed items?).",
+    "socials": "",
+    "email": "gudrun.rut.gudmundsdottir@gmail.com",
+    "image_url": "files/images/Guðmundsdóttir.jpg"
+  },
+  {
+    "id": "Laura_Bringmann",
+    "first_name": "Laura",
+    "last_name": "Bringmann",
+    "current_position": "Associate professor",
+    "institution": "University of Groningen",
+    "interests": "Using mixed methods, such as reliability analysis and open-ended text boxes, to improve the reliability and validity of ESM. Not psychometrics, but ESMmetrics!",
+    "socials": "https://www.laurabringmannlab.com/",
+    "email": "l.f.bringmann@rug.nl",
+    "image_url": "files/images/Bringmann.jpg"
+  },
+  {
+    "id": "Marieke A._Helmich",
+    "first_name": "Marieke A.",
+    "last_name": "Helmich",
+    "current_position": "Postdoctoral research fellow",
+    "institution": "University of Oslo",
+    "interests": "Change processes in emotion and symptom time series; Meaningful measurement",
+    "socials": "www.mariekehelmich.com, mahelmich.bsky.social, @MariekeHelmich",
+    "email": "marieke.a.helmich@gmail.com",
+    "image_url": "files/images/Helmich.jpg"
   }
 ];
 
