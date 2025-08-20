@@ -5,9 +5,9 @@ description-meta: "Members of the MITNB consortium"
 
 Below is a group photo taken at the MITNB Lorentz Center Workshop in Leiden (2024).
 
-![](files/images/lorentz_group-photo.jpg)
+![](files/images/lorentz_group-photo.jpg){fig-align="center" width="670"}
 
-More information about individual members is soon to come.
+You can find additional information about our individual members by clicking on the cards below.
 
 ```{=html}
 <style>
@@ -314,15 +314,3 @@ More information about individual members is soon to come.
 {{< include files/members_complete.js >}}
 </script>
 ```
-        <div class="contact-links" id="modalContacts">
-          <!-- Contact links will be populated here -->
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script>
-{{< include files/members_complete.js >}}
-</script>
-````
