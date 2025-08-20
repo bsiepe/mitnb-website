@@ -1,4 +1,3 @@
-
 // Embedded member data
 const membersData = {};
 const rawMembersData = [
@@ -233,23 +232,19 @@ console.log("Member data loaded successfully. Available members:", Object.keys(m
 
 function openModal(memberId) {
   console.log("Opening modal for member:", memberId);
-  console.log("Available members:", Object.keys(membersData));
   
   const member = membersData[memberId];
   if (!member) {
     console.error("Member not found:", memberId);
-    console.log("Full membersData object:", membersData);
     return;
   }
-
-  console.log("Member found:", member);
 
   document.getElementById("modalName").textContent = `${member.first_name} ${member.last_name}`;
   document.getElementById("modalPosition").textContent = member.current_position;
   document.getElementById("modalInstitution").textContent = member.institution;
   document.getElementById("modalInterests").textContent = member.interests;
   document.getElementById("modalImage").src = member.image_url;
-  document.getElementById("modalImage").alt = `${member.first_name} ${member.last_name}` + "s Image";
+  document.getElementById("modalImage").alt = `${member.first_name} ${member.last_name}s Image`;
 
   // Handle contact links
   const contactsDiv = document.getElementById("modalContacts");
@@ -259,18 +254,15 @@ function openModal(memberId) {
     const emailLink = document.createElement("a");
     emailLink.href = `mailto:${member.email}`;
     emailLink.className = "contact-link";
-    emailLink.innerHTML = "Email";
+    emailLink.innerHTML = "📧 Email";
     contactsDiv.appendChild(emailLink);
   }
   
-  if (member.socials) {
-    const socialLink = document.createElement("a");
-    socialLink.href = member.socials;
-    socialLink.target = "_blank";
-    socialLink.rel = "noopener noreferrer";
-    socialLink.className = "contact-link";
-    socialLink.innerHTML = "Website/Social";
-    contactsDiv.appendChild(socialLink);
+  if (member.socials && member.socials.trim() !== "") {
+    const socialDiv = document.createElement("div");
+    socialDiv.className = "social-text";
+    socialDiv.innerHTML = `<strong>Links & Socials:</strong><br>${member.socials}`;
+    contactsDiv.appendChild(socialDiv);
   }
 
   // Show/hide contact section
@@ -279,8 +271,6 @@ function openModal(memberId) {
 
   document.getElementById("memberModal").style.display = "block";
   document.body.style.overflow = "hidden";
-  
-  console.log("Modal should now be visible");
 }
 
 function closeModal() {
