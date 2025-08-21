@@ -76,7 +76,7 @@ The quality of EMA data depends not only on what is measured, but also when, how
 -   [**Haslbeck et al. (2025)**](https://doi.org/10.3758/s13428-025-02706-2)\
     Compares Likert scales vs. Visual Analogue Scales (VAS), addressing a long-standing debate over optimal scale format, providing evidence that VAS scales may be superior.
 
--   [**Cloos, Siepe et al. (2025)**](https://psycnet.apa.org/record/2025-92377-001)\
+-   [**Cloos, Siepe et al. (2025)**](https://online.ucpress.edu/collabra/article/11/1/142735/212591)\
     Provide evidence for the accuracy and consistency of VAS in EMA.\
     *Note: This paper is a direct output from a collaboration formed during the MITNB annual meeting 2024.*
 
