@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "people/files/**"
+    - CNAME
 
 website:
   title: "Measurement Is The New Black"
