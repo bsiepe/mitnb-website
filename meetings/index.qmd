@@ -6,7 +6,7 @@ Since 2024, we organize in-person MITNB meetings where we bring together members
 
 ## MITNB meeting 2024 {#mitnb-meeting-2024}
 
-The first MITNB meeting was organized as an [NWO-funded Lorentz workshop](https://www.lorentzcenter.nl/its-about-time-improving-intensive-longitudinal-data.html), held from **November 4–8, 2024**, in **Leiden, the Netherlands**. The focus of the meeting was on the integration of qualitative and quantitative methodologies to improve Ecological Momentary Assessment.
+The first MITNB meeting was organized by Laura Bringmann, Dominique Maciejewski, Eiko Fried, Josip Razum and Miguel Silan as an [NWO-funded Lorentz workshop](https://www.lorentzcenter.nl/its-about-time-improving-intensive-longitudinal-data.html), held from **November 4–8, 2024**, in **Leiden, the Netherlands**. The focus of the meeting was on the integration of qualitative and quantitative methodologies to improve Ecological Momentary Assessment.
 
 The meeting opened with a keynote by **Prof. Denny Borsboom**, who gave a state-of-the-art presentation about how important theory is to understand measurement and the potential of formal modeling as an important thinking tool.
 
@@ -41,7 +41,7 @@ The meeting facilitated in-depth methodological exchange, fostered interdiscipli
 
 ![Roundtable discussion on qualitative versus quantiative methods](files/mitnb2024_5.jpg)
 
-![Organizing team of the MITNB annual meeting 2024](files/mitnb2024_1.jpg)
+![Organizing team of the MITNB annual meeting 2024: Miguel Silan, Dominique Maciejewski, Laura Bringmann, Josip Razum, Eiko Fried (from left to right)](files/mitnb2024_1.jpg)
 
 ## MITNB meeting 2025 {#mitnb-meeting-2025}
 

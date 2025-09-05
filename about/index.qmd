@@ -19,7 +19,7 @@ We have a strong motivation to feed our results back to the scientific and clini
 
 ## Signup
 
-Are you interested in EMA and want to improve its measurement? Sign-up below! With our consortium, we want to facilitate (international) collaborations between researchers/clinicians with complementary expertise. For some of our recent contributions, see the [Literature Overview](../literature/).
+Are you interested in ESM and want to improve its measurement? Sign-up below! With our consortium, we want to facilitate (international) collaborations between researchers/clinicians with complementary expertise. For some of our recent contributions, see the [Literature Overview](../literature/).
 
 We meet four times per year online, have a lively Slack community, and organize regular in-person meetings (see the [In-person meetings](../meetings/) page).
 

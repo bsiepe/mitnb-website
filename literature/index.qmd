@@ -3,66 +3,66 @@ title: "Literature"
 description-meta: "Relevant Literature"
 ---
 
-Although ecological momentary assessment (EMA) allows for rich insights into dynamic psychological processes, measurement issues, including reactivity, reliability, validity, and feedback mechanisms, pose significant methodological challenges. Importantly, recent work by [**Vogelsmeier et al. (2024)**](https://link.springer.com/article/10.1007/s11136-024-03678-0) shows that measurement practices in EMA, such as using validated items or assessing reliability, are not regularly done, often because researchers do not know how to approach such methodological questions. In the past years, members of the MITNB consortium have made substantial contributions to improve the quality of measurement in EMA. Some of this work is highlighted on this page.
+Although Experience Sampling Methods (ESM) allows for rich insights into dynamic psychological processes, measurement issues, including reactivity, reliability, validity, and feedback mechanisms, pose significant methodological challenges. Importantly, recent work by [**Vogelsmeier et al. (2024)**](https://link.springer.com/article/10.1007/s11136-024-03678-0) shows that measurement practices in ESM, such as using validated items or assessing reliability, are not regularly done, often because researchers do not know how to approach such methodological questions. In the past years, members of the MITNB consortium have made substantial contributions to improve the quality of measurement in ESM. Some of this work is highlighted on this page.
 
 ## Methodological Best Practices
 
-Well-designed EMA studies depend on choosing what to measure, how often, and how to maintain psychometric rigor. These two papers are summaries of current state-of-the art practices.
+Well-designed ESM studies depend on choosing what to measure, how often, and how to maintain psychometric rigor. These two papers are summaries of current state-of-the art practices.
 
 -   [**Fritz et al. (2024)**](https://doi.org/10.1177/25152459241267912)\
     Offers a practical guide of 10 essential considerations, ranging from study design to data analysis.
 
 -   [**Tuerlinckx et al. (2025)**](https://doi.org/10.1111/bmsp.12398)\
-    Reviews emerging advancements in EMA methodology, including best practices around reliability, validity, and timing of assessments.
+    Reviews emerging advancements in ESM methodology, including best practices around reliability, validity, and timing of assessments.
 
-## Reactivity, Invariance & Response Quality in EMA
+## Reactivity, Invariance & Response Quality in ESM
 
 Although repeated assessments provide rich data, they can influence how participants respond, leading to phenomena such as measurement reactivity and careless responding. These papers summarize the issue and point towards analytical solutions to deal with them.
 
 -   [**König et al. (2022)**](https://doi.org/10.1080/17437199.2022.2047096)\
-    Systematic review and meta-analysis of reactivity effects in EMA studies on health behavior. It highlights common patterns and offers mitigation strategies.
+    Systematic review and meta-analysis of reactivity effects in ESM studies on health behavior. It highlights common patterns and offers mitigation strategies.
 
 -   [**Vogelsmeier et al. (2022)**](https://doi.org/10.3758/s13428-022-01898-1)\
-    Introduces how latent Markov factor analysis can be used to assess measurement invariance in EMA data.
+    Introduces how latent Markov factor analysis can be used to assess measurement invariance in ESM data.
 
 -   [**Vogelsmeier et al. (2024)**](https://doi.org/10.1111/bmsp.12373)\
-    Applies a combination of confirmatory mixture item response theory model with latent Markov factor analysis to detect careless responding in EMA data.
+    Applies a combination of confirmatory mixture item response theory model with latent Markov factor analysis to detect careless responding in ESM data.
 
-## Validation of EMA Items
+## Validation of ESM Items
 
-Although EMA is widely used in psychological research, rigorous validation of constructs remains underdeveloped. Many studies rely on items that have not undergone thorough psychometric evaluation. A first good start is to scan the [ESM item repository](https://esmitemrepositoryinfo.com/). The following contributions help in assessing what a good item is and how mixed-methods approaches can help reveal problems with validity in EMA research.
+Although ESM is widely used in psychological research, rigorous validation of constructs remains underdeveloped. Many studies rely on items that have not undergone thorough psychometric evaluation. A first good start is to scan the [ESM item repository](https://esmitemrepositoryinfo.com/). The following contributions help in assessing what a good item is and how mixed-methods approaches can help reveal problems with validity in ESM research.
 
 -   [**Eisele et al. (2025)**](https://doi.org/10.3758/s13428-025-02626-1)\
-    Presents the ESM-Q, a consensus-based tool for assessing the quality of EMA items. It provides a practical framework for evaluating construct validity during study design.
+    Presents the ESM-Q, a consensus-based tool for assessing the quality of ESM items. It provides a practical framework for evaluating construct validity during study design.
 
 -   [**Schorrlepp et al. (accepted)**](https://osf.io/preprints/osf/dqzrf_v1)\
-    Demonstrates how qualitative methods can serve as validity checks in clinical EMA settings and provides concrete implementation examples.
+    Demonstrates how qualitative methods can serve as validity checks in clinical ESM settings and provides concrete implementation examples.
 
 -   [**Olthof et al. (2024)**](https://doi.org/10.17505/jpor.2024.27102)\
-    Uses a mixed-methods EMA approach, showing how quantitative rating scales sometimes do not match the lived experience of participants.
+    Uses a mixed-methods ESM approach, showing how quantitative rating scales sometimes do not match the lived experience of participants.
 
-## Reliability & Validity of EMA Data
+## Reliability & Validity of ESM Data
 
-Assessing psychometric properties in EMA studies is complicated by the dynamic nature of emotions and behaviors. These papers describe multiple ways to assess reliability and validity in EMA data and show two recent examples of EMA questionnaires that were validated using multiple methods.
+Assessing psychometric properties in ESM studies is complicated by the dynamic nature of emotions and behaviors. These papers describe multiple ways to assess reliability and validity in ESM data and show two recent examples of ESM questionnaires that were validated using multiple methods.
 
 -   [**Castro-Alvarez et al. (2024)**](https://osf.io/qyk2r_v1/)\
     Offers an overview of statistical approaches to quantify reliability of dynamic psychological constructs.
 
 -   [**Dejonckheere et al. (2022)**](https://doi.org/10.1037/pas0001178)\
-    Describes guidelines for evaluating reliability in single-items in EMA, which are widely used.
+    Describes guidelines for evaluating reliability in single-items in ESM, which are widely used.
 
 -   [**Siepe et al. (2025)**](https://doi.org/10.1177/25152459241286877)\
-    Provides a tutorial for using descriptive statistics and data-visualization techniques to increase the understanding of the performance of EMA items.
+    Provides a tutorial for using descriptive statistics and data-visualization techniques to increase the understanding of the performance of ESM items.
 
 -   [**Cloos et al. (2023)**](https://doi.org/10.1037/pas0001200)\
-    Develops and evaluates the validity of different items to measure positive and negative affect in EMA protocols
+    Develops and evaluates the validity of different items to measure positive and negative affect in ESM protocols.
 
 -   [**Kochhar et al. (2025)**](https://doi.org/10.1016/j.dadr.2024.100314)\
-    Assesses the psychometric properties of an EMA protocol for cigarette-smoking youth using a mixed-methods approach.
+    Assesses the psychometric properties of an ESM protocol for cigarette-smoking youth using a mixed-methods approach.
 
 ## Design Features: Sampling Strategies & Item Design
 
-The quality of EMA data depends not only on what is measured, but also when, how often, and how items are presented. These papers investigate how these choices can impact data quality and provide guidelines for designing EMA studies.
+The quality of ESM data depends not only on what is measured, but also when, how often, and how items are presented. These papers investigate how these choices can impact data quality and provide guidelines for designing ESM studies.
 
 -   [**Eisele et al. (2021)**](https://doi.org/10.1016/J.JRP.2021.104094) **& [Eisele et al. (2023)](https://doi.org/10.1037/pas0001177)**\
     Explore how different sampling protocols and individual participant traits influence reactivity and reliability.
@@ -71,13 +71,13 @@ The quality of EMA data depends not only on what is measured, but also when, how
     Proposes using intensity profile drawings to better capture continuous emotional experiences.
 
 -   [**Dejonckheere et al. (2024)**](https://doi.org/10.1037/pas0001296)\
-    Recommends showing participants their previous rating to improve accuracy of EMA ratings.
+    Recommends showing participants their previous rating to improve accuracy of ESM ratings.
 
 -   [**Haslbeck et al. (2025)**](https://doi.org/10.3758/s13428-025-02706-2)\
     Compares Likert scales vs. Visual Analogue Scales (VAS), addressing a long-standing debate over optimal scale format, providing evidence that VAS scales may be superior.
 
 -   [**Cloos, Siepe et al. (2025)**](https://online.ucpress.edu/collabra/article/11/1/142735/212591)\
-    Provide evidence for the accuracy and consistency of VAS in EMA.\
+    Provide evidence for the accuracy and consistency of VAS in ESM.\
     *Note: This paper is a direct output from a collaboration formed during the MITNB annual meeting 2024.*
 
 -   [**Henninger et al. (2025)**](https://psycnet.apa.org/record/2025-92377-001)\
@@ -89,23 +89,23 @@ The quality of EMA data depends not only on what is measured, but also when, how
 
 ## Beyond Rating Scales: Capturing Daily Life Complexity
 
-EMA typically uses standard ratings scales, but such scales often miss important nuances. These tutorial papers show different methods beyond standard rating scales to better capture the complexity of daily life.
+ESM typically uses standard ratings scales, but such scales often miss important nuances. These tutorial papers show different methods beyond standard rating scales to better capture the complexity of daily life.
 
 -   [**Stadel et al. (2025)**](https://doi.org/10.1016/j.metip.2025.100177)\
     Compares categorical response scoring vs. open-ended qualitative analysis to study daily activities.
 
 -   [**Stadel et al. (2024)**](https://doi.org/10.1177/25152459241244745)\
-    Combines EMA with personal social network mapping to explore how social contexts shape psychological experience.
+    Combines ESM with personal social network mapping to explore how social contexts shape psychological experience.
 
-## Feedback in EMA: Enhancing Participant Engagement
+## Feedback in ESM: Enhancing Participant Engagement
 
-Feedback systems in EMA research not only improve participant retention, but also create therapeutic opportunities in psychological interventions.
+Feedback systems in ESM research not only improve participant retention, but also create therapeutic opportunities in psychological interventions.
 
 -   [**Leertouwer et al. (2021)**](https://doi.org/10.3389/fpsyg.2021.764526)\
-    Reviews explicit and implicit assumptions behind personalized feedback using self-report EMA data, encouraging critical reflection among practitioners.
+    Reviews explicit and implicit assumptions behind personalized feedback using self-report ESM data, encouraging critical reflection among practitioners.
 
 -   [**Bringmann et al. (2025)**](https://doi.org/10.1016/j.invent.2025.100819)\
-    Introduces a feedback system in the [m-Path app](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1182175/full), which combines qualitative insights and quantitative EMA data in cognitive behavioral interventions.
+    Introduces a feedback system in the [m-Path app](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2023.1182175/full), which combines qualitative insights and quantitative ESM data in cognitive behavioral interventions.
 
 -   [**Rimpler et al. (2024)**](https://doi.org/10.1007/s10488-023-01324-4)\
-    Presents the FRED software, a user-friendly tool for creating feedback reports based on EMA data.\
+    Presents the FRED software, a user-friendly tool for creating feedback reports based on ESM data.\
