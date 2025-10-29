@@ -3,6 +3,8 @@ title: "People"
 description-meta: "Members of the MITNB consortium"
 ---
 
+We have years of experience in collecting and analyzing ESM data. We see tremendous value in this method, but our work in the past years has also identified critical gaps in measurement. To address these, Laura Bringmann (University of Groningen), Dominique Maciejewski (Tilburg University), and Eiko Fried (Leiden University) initiated the MITNB-consortium in 2022 and have been leading it ever since. What started out as a relatively small group of interested scientists, has grown into a vibrant community of \>200 members: We have regular online meetings, have organized two expert [in-person meetings](../meetings/) and have published several [papers](../literature/) on methodological issues in ESM research.
+
 Below is a group photo taken at the MITNB Lorentz Center Workshop in Leiden (2024).
 
 ![](files/images/lorentz_group-photo.jpg){fig-align="center" width="670"}
