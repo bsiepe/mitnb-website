@@ -62,10 +62,10 @@ The main part of the meeting were the hackathons, during which participants work
 
 ![All participants of the MITNB workshop 2025 in Tilburg, the Netherlands](files/mitnb_workshop_2025_group.jpg)
 
-![Hands-on workshop about evaluating reliability by Sebastian Castro-Alvarez](files/mitnb_workshop_2025_sebastian.jpg)
+![Hands-on workshop about evaluating reliability by Sebastian Castro-Alvarez](files/mitnb_workshop_2025_sebastian.jpg){width="2002"}
 
 ![Participants during workshops](files/mitnb_workshop_2025_group2.jpg)
 
 ![Hackathon on formalizing measurement theory](files/mitnb_workshop_2025_hackathon.jpg)
 
-![Presentation of hackathon results of group on clinical change](files/mitnb_workshop_2025_presentation.jpg)
+![Presentation of results of hackathon group on clinical change](files/mitnb_workshop_2025_presentation.jpg)
