@@ -45,4 +45,27 @@ The meeting facilitated in-depth methodological exchange, fostered interdiscipli
 
 ## MITNB meeting 2025 {#mitnb-meeting-2025}
 
-The MITNB 2025 meeting will take place at the [Tilburg Experience Sampling Center (TESC)](https://experiencesampling.nl/) from **3 to 7 November, 2025, in Tilburg, the Netherlands**. This year’s workshop focuses on thinking about and modeling reliability and different time scales in ESM research. Key issues include modeling the process at the timescale at which it is theorized to unfold, matching this with the timescale at which the process is measured, and relating processes unfolding at different timescales. More information will follow soon!
+The MITNB 2025 meeting took place at the [Tilburg Experience Sampling Center (TESC)](https://experiencesampling.nl/) from **3 to 7 November, 2025, in Tilburg, the Netherlands**. The meeting was organized by Dominique Maciejewski, Laura Bringmann, Manuel Rein, and Marie Stadel together with TESC. The workshop focuses on thinking about and modeling reliability and different time scales in ESM research.
+
+The meeting opened with a keynote by **Prof. Ellen Hamaker**, who gave a state-of-the-art presentation about the importance of timescales when studying processes, how different design aspects shape our temporal lens and determine which processes we see (and which we do not).
+
+Moreover, we offered two hands-on workshops:
+
+-   **Introduction to Data-Driven Methods for Identifying Occasion-Specific Careless Responding in Experience Sampling Data** (*Dr. Leonie Vogelsmeier*)
+-   **Estimating Internal Consistency Reliability for Intensive Longitudinal Data: A Brief Tutorial** (Dr. *Sebastian Castro-Alvarez*)
+
+We also had one roundtable panel sessions with the topic: **The role of artificial intellgence in qualitative research: nonsense or opportunity?** with panelists *Leonie Vogelsmeier, Leonie Schorrlepp, Marie Stadel, Jonas Haslbeck, and Laura Bringmann*.
+
+The main part of the meeting were the hackathons, during which participants worked on concrete measurement issues. The hackathons covered diverse topics, such as formalizing measurement theory in ESM, examining clinical change in single-case studies, evaluating statistical assumptions across different ESM items and designs, and modeling associations across multiple timescales. We are currently working on the output of these different hackathons and will share the results of those in the upcoming year via the [Literature Overview](../literature/).
+
+### Photos from MITNB workshop 2025
+
+![All participants of the MITNB workshop 2025 in Tilburg, the Netherlands](files/mitnb_workshop_2025_group.jpg)
+
+![Hands-on workshop about evaluating reliability by Sebastian Castro-Alvarez](files/mitnb_workshop_2025_sebastian.jpg)
+
+![Participants during workshops](files/mitnb_workshop_2025_group2.jpg)
+
+![Hackathon on formalizing measurement theory](files/mitnb_workshop_2025_hackathon.jpg)
+
+![Presentation of hackathon results of group on clinical change](files/mitnb_workshop_2025_presentation.jpg)
