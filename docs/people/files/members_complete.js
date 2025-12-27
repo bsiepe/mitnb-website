@@ -58,15 +58,15 @@ const rawMembersData = [
     "image_url": "files/images/Baxter.jpg"
   },
   {
-    "id": "Anastasia_Galkina",
-    "first_name": "Anastasia",
-    "last_name": "Galkina",
+    "id": "Sandro_Menegola",
+    "first_name": "Sandro",
+    "last_name": "Menegola",
     "current_position": "PhD Candidate",
-    "institution": "Maastricht University, University of Milano-Bicocca",
-    "interests": "My main research interests are ESM studies, dyadic data analysis, and quantitative methods for analyzing intensive longitudinal data, with a special focus on multilevel models and network analysis. In my principal study, I'm working on the emotional interconnection between partners in romantic couples, looking specifically at the role of emotion suppression as an emotion regulation strategy. I'm also interested in clinical applications of ESM research methods.",
-    "socials": "https://bsky.app/profile/anastasiapsy.bsky.social",
-    "email": "a.galkina@campus.unimib.it",
-    "image_url": "files/images/Galkina.jpg"
+    "institution": "University of Basel",
+    "interests": "My research interests concern the measurement and psychometric modeling of affect in ESM studies. Specifically, I am interested in how different approaches to assessing affect and the incorporation of reliability influence estimates of affect dynamic measures.",
+    "socials": "LinkedIn: www.linkedin.com/in/sandro-menegola-1558ba218/",
+    "email": "sandro.menegola@unibas.ch",
+    "image_url": "files/images/Menegola.jpg"
   },
   {
     "id": "Jingmeng_Cui",
@@ -80,15 +80,15 @@ const rawMembersData = [
     "image_url": "files/images/Cui.jpg"
   },
   {
-    "id": "Sandro_Menegola",
-    "first_name": "Sandro",
-    "last_name": "Menegola",
-    "current_position": "PhD Candidate",
-    "institution": "University of Basel",
-    "interests": "My research interests concern the measurement and psychometric modeling of affect in ESM studies. Specifically, I am interested in how different approaches to assessing affect and the incorporation of reliability influence estimates of affect dynamic measures.",
-    "socials": "LinkedIn: www.linkedin.com/in/sandro-menegola-1558ba218/",
-    "email": "sandro.menegola@unibas.ch",
-    "image_url": "files/images/Menegola.jpg"
+    "id": "Frances Grace_Hart",
+    "first_name": "Frances Grace",
+    "last_name": "Hart",
+    "current_position": "Lab Manager",
+    "institution": "Yale University",
+    "interests": "I am broadly interested in what people believe and feel about death and mortality, and how these influence psychological and behavioral outcomes– especially suicide. I am most interested in how these phenomena unfold for individuals in daily life; thus, I am interested in using digital and wearable devices to capture these experiences. Because these experiences are so complex, I am also interested in conceptual clarity and measurement, and use computational methods (e.g., natural language processing, formal modeling) to explore related questions. Ultimately I seek to develop robust, formal theories of transdiagnostic psychological processes to inform clinical intervention.",
+    "socials": "https://francesghart.github.io/",
+    "email": "frances.hart@yale.edu",
+    "image_url": "files/images/Hart.jpg"
   },
   {
     "id": "Laura_Bringmann",
@@ -201,26 +201,26 @@ const rawMembersData = [
     "image_url": "files/images/Maciejewski.jpg"
   },
   {
-    "id": "Egon_Dejonckheere",
-    "first_name": "Egon",
-    "last_name": "Dejonckheere",
-    "current_position": "Assistant Professor",
-    "institution": "Tilburg University",
-    "interests": "EMA reliability, compliance, careless responding",
-    "socials": "https://bsky.app/profile/dejonckheeregon.bsky.social",
-    "email": "e.h.dejonckheere@tilburguniversity.edu",
-    "image_url": "files/images/Dejonckheere.jpg"
+    "id": "Caroline_Zygar-Hoffmann",
+    "first_name": "Caroline",
+    "last_name": "Zygar-Hoffmann",
+    "current_position": "Professor for Psychological Methods",
+    "institution": "Charlotte Fresenius Hochschule - University of Psychology",
+    "interests": "I am broadly interested in improving measurement in the context of experience sampling and ecological momentary interventions.",
+    "socials": "psycaroly.github.io",
+    "email": "caroline.zygar-hoffmann@charlotte-fresenius-uni.de",
+    "image_url": "files/images/Zygar-Hoffmann.jpg"
   },
   {
-    "id": "Noémi_Schuurman",
-    "first_name": "Noémi",
-    "last_name": "Schuurman",
+    "id": "Katie_Hoemann",
+    "first_name": "Katie",
+    "last_name": "Hoemann",
     "current_position": "Assistant Professor",
-    "institution": "Utrecht University",
-    "interests": "My research interests are methodology for intensive longitudinal research, psychological measurement theory, and theory formation. My work often features dynamic modeling, measurement modeling, idiographic and multilevel modeling, and Bayesian estimation.",
-    "socials": "www.nkschuurman.com",
-    "email": "n.k.schuurman@uu.nl",
-    "image_url": "files/images/Schuurman.jpg"
+    "institution": "University of Kansas",
+    "interests": "How people experience and understand emotion, in particular via natural language, multimodal, and mixed-method approaches",
+    "socials": "https://www.katiehoemann.com/",
+    "email": "khoemann@gmail.com",
+    "image_url": "files/images/Hoemann.jpg"
   },
   {
     "id": "Björn_Siepe",
@@ -234,17 +234,6 @@ const rawMembersData = [
     "image_url": "files/images/Siepe.jpg"
   },
   {
-    "id": "Joe_Bayer",
-    "first_name": "Joe",
-    "last_name": "Bayer",
-    "current_position": "Associate Professor",
-    "institution": "The Ohio State University",
-    "interests": "My research centers on collecting digital traces in combination with experience sampling methods (ESM), with a special interest in digitally triggered (i.e., event contingent) ESM designs and their unique measurement considerations.",
-    "socials": "josephbayer.com",
-    "email": "bayer.66@osu.edu",
-    "image_url": "files/images/Bayer.jpg"
-  },
-  {
     "id": "Xiaohui_Luo",
     "first_name": "Xiaohui",
     "last_name": "Luo",
@@ -254,6 +243,17 @@ const rawMembersData = [
     "socials": "https://luoxh3.github.io/",
     "email": "luoxh333@gmail.com",
     "image_url": "files/images/Luo.jpg"
+  },
+  {
+    "id": "Egon_Dejonckheere",
+    "first_name": "Egon",
+    "last_name": "Dejonckheere",
+    "current_position": "Assistant Professor",
+    "institution": "Tilburg University",
+    "interests": "EMA reliability, compliance, careless responding",
+    "socials": "https://bsky.app/profile/dejonckheeregon.bsky.social",
+    "email": "e.h.dejonckheere@tilburguniversity.edu",
+    "image_url": "files/images/Dejonckheere.jpg"
   },
   {
     "id": "Charlotte_Vrijen",
@@ -278,15 +278,15 @@ const rawMembersData = [
     "image_url": "files/images/Kochhar.jpg"
   },
   {
-    "id": "Gil_Grunfeld",
-    "first_name": "Gil",
-    "last_name": "Grunfeld",
-    "current_position": "PhD Student",
-    "institution": "Boston University",
-    "interests": "Phenomenological approaches in ESM.",
-    "socials": "",
-    "email": "grunfeld@bu.edu",
-    "image_url": "files/images/Grunfeld.jpg"
+    "id": "Joe_Bayer",
+    "first_name": "Joe",
+    "last_name": "Bayer",
+    "current_position": "Associate Professor",
+    "institution": "The Ohio State University",
+    "interests": "My research centers on collecting digital traces in combination with experience sampling methods (ESM), with a special interest in digitally triggered (i.e., event contingent) ESM designs and their unique measurement considerations.",
+    "socials": "josephbayer.com",
+    "email": "bayer.66@osu.edu",
+    "image_url": "files/images/Bayer.jpg"
   },
   {
     "id": "Jonas_Haslbeck",
@@ -300,48 +300,15 @@ const rawMembersData = [
     "image_url": "files/images/Haslbeck.jpg"
   },
   {
-    "id": "M. Annelise_Blanchard",
-    "first_name": "M. Annelise",
-    "last_name": "Blanchard",
-    "current_position": "Postdoc",
-    "institution": "UCLouvain & KU Leuven",
-    "interests": "Figuring out ideal timescales and items in ESM studies, and the questions that fall from that: measurement validity & reliability (including for single items), ESM bursts, open/qualitative responses, etc.",
-    "socials": "",
-    "email": "marie.blanchard@uclouvain.be",
-    "image_url": "files/images/Blanchard.jpg"
-  },
-  {
-    "id": "Guðrún_Guðmundsdóttir",
-    "first_name": "Guðrún",
-    "last_name": "Guðmundsdóttir",
-    "current_position": "PhD student",
-    "institution": "Maastricht University",
-    "interests": "I'm interested in all things ESM, particularly in response processes (e.g., how do people interpret and use slider scales?), time-scale considerations (e.g., how frequently should we measure a construct based on its variability in daily life?), and the why and how of using open-text responses (e.g., what is the added value of written responses beyond what we can infer from closed items?).",
-    "socials": "",
-    "email": "gudrun.rut.gudmundsdottir@gmail.com",
-    "image_url": "files/images/Guðmundsdóttir.jpg"
-  },
-  {
-    "id": "Omid V._Ebrahimi",
-    "first_name": "Omid V.",
-    "last_name": "Ebrahimi",
-    "current_position": "Research Fellow",
-    "institution": "University of Oxford",
-    "interests": "Time-series; EMA; Measurement; Dynamic Modelling",
-    "socials": "",
-    "email": "omid.ebrahimi@psy.ox.ac.uk",
-    "image_url": "files/images/Ebrahimi.jpg"
-  },
-  {
-    "id": "Marieke A._Helmich",
-    "first_name": "Marieke A.",
-    "last_name": "Helmich",
-    "current_position": "Postdoctoral research fellow",
-    "institution": "University of Oslo",
-    "interests": "Change processes in emotion and symptom time series; Meaningful measurement",
-    "socials": "www.mariekehelmich.com, mahelmich.bsky.social, @MariekeHelmich",
-    "email": "marieke.a.helmich@gmail.com",
-    "image_url": "files/images/Helmich.jpg"
+    "id": "Noémi_Schuurman",
+    "first_name": "Noémi",
+    "last_name": "Schuurman",
+    "current_position": "Assistant Professor",
+    "institution": "Utrecht University",
+    "interests": "My research interests are methodology for intensive longitudinal research, psychological measurement theory, and theory formation. My work often features dynamic modeling, measurement modeling, idiographic and multilevel modeling, and Bayesian estimation.",
+    "socials": "www.nkschuurman.com",
+    "email": "n.k.schuurman@uu.nl",
+    "image_url": "files/images/Schuurman.jpg"
   },
   {
     "id": "Shirley_Wang",
@@ -355,6 +322,39 @@ const rawMembersData = [
     "image_url": "files/images/Wang.jpg"
   },
   {
+    "id": "Zhenchao_Hu",
+    "first_name": "Zhenchao",
+    "last_name": "Hu",
+    "current_position": "PhD Candidate",
+    "institution": "Stanford University",
+    "interests": "intraindividual variability; reactivity and statistical models for in super-intensive ESM and multiple burst designs; ecological validity of ESM",
+    "socials": "https://thechangelab.stanford.edu/meet-our-team/zhenchao-hu/",
+    "email": "zhenchao@stanford.edu",
+    "image_url": "files/images/Hu.jpg"
+  },
+  {
+    "id": "Marieke A._Helmich",
+    "first_name": "Marieke A.",
+    "last_name": "Helmich",
+    "current_position": "Postdoctoral research fellow",
+    "institution": "University of Oslo",
+    "interests": "Change processes in emotion and symptom time series; Meaningful measurement",
+    "socials": "www.mariekehelmich.com, mahelmich.bsky.social, @MariekeHelmich",
+    "email": "marieke.a.helmich@gmail.com",
+    "image_url": "files/images/Helmich.jpg"
+  },
+  {
+    "id": "Anastasia_Galkina",
+    "first_name": "Anastasia",
+    "last_name": "Galkina",
+    "current_position": "PhD Candidate",
+    "institution": "Maastricht University, University of Milano-Bicocca",
+    "interests": "My main research interests are ESM studies, dyadic data analysis, and quantitative methods for analyzing intensive longitudinal data, with a special focus on multilevel models and network analysis. In my principal study, I'm working on the emotional interconnection between partners in romantic couples, looking specifically at the role of emotion suppression as an emotion regulation strategy. I'm also interested in clinical applications of ESM research methods.",
+    "socials": "https://bsky.app/profile/anastasiapsy.bsky.social",
+    "email": "a.galkina@campus.unimib.it",
+    "image_url": "files/images/Galkina.jpg"
+  },
+  {
     "id": "Shari_Hamm",
     "first_name": "Shari",
     "last_name": "Hamm",
@@ -366,15 +366,15 @@ const rawMembersData = [
     "image_url": "files/images/Hamm.jpg"
   },
   {
-    "id": "Caroline_Zygar-Hoffmann",
-    "first_name": "Caroline",
-    "last_name": "Zygar-Hoffmann",
-    "current_position": "Professor for Psychological Methods",
-    "institution": "Charlotte Fresenius Hochschule - University of Psychology",
-    "interests": "I am broadly interested in improving measurement in the context of experience sampling and ecological momentary interventions.",
-    "socials": "psycaroly.github.io",
-    "email": "caroline.zygar-hoffmann@charlotte-fresenius-uni.de",
-    "image_url": "files/images/Zygar-Hoffmann.jpg"
+    "id": "Omid V._Ebrahimi",
+    "first_name": "Omid V.",
+    "last_name": "Ebrahimi",
+    "current_position": "Research Fellow",
+    "institution": "University of Oxford",
+    "interests": "Time-series; EMA; Measurement; Dynamic Modelling",
+    "socials": "",
+    "email": "omid.ebrahimi@psy.ox.ac.uk",
+    "image_url": "files/images/Ebrahimi.jpg"
   },
   {
     "id": "Marie_Stadel",
@@ -399,6 +399,17 @@ const rawMembersData = [
     "image_url": "files/images/Kirtley.jpg"
   },
   {
+    "id": "Gil_Grunfeld",
+    "first_name": "Gil",
+    "last_name": "Grunfeld",
+    "current_position": "PhD Student",
+    "institution": "Boston University",
+    "interests": "Phenomenological approaches in ESM.",
+    "socials": "",
+    "email": "grunfeld@bu.edu",
+    "image_url": "files/images/Grunfeld.jpg"
+  },
+  {
     "id": "Marieke_Schreuder",
     "first_name": "Marieke",
     "last_name": "Schreuder",
@@ -410,26 +421,26 @@ const rawMembersData = [
     "image_url": "files/images/Schreuder.jpg"
   },
   {
-    "id": "Zhenchao_Hu",
-    "first_name": "Zhenchao",
-    "last_name": "Hu",
-    "current_position": "PhD Candidate",
-    "institution": "Stanford University",
-    "interests": "intraindividual variability; reactivity and statistical models for in super-intensive ESM and multiple burst designs; ecological validity of ESM",
-    "socials": "https://thechangelab.stanford.edu/meet-our-team/zhenchao-hu/",
-    "email": "zhenchao@stanford.edu",
-    "image_url": "files/images/Hu.jpg"
+    "id": "M. Annelise_Blanchard",
+    "first_name": "M. Annelise",
+    "last_name": "Blanchard",
+    "current_position": "Postdoc",
+    "institution": "UCLouvain & KU Leuven",
+    "interests": "Figuring out ideal timescales and items in ESM studies, and the questions that fall from that: measurement validity & reliability (including for single items), ESM bursts, open/qualitative responses, etc.",
+    "socials": "",
+    "email": "marie.blanchard@uclouvain.be",
+    "image_url": "files/images/Blanchard.jpg"
   },
   {
-    "id": "Katie_Hoemann",
-    "first_name": "Katie",
-    "last_name": "Hoemann",
-    "current_position": "Assistant Professor",
-    "institution": "University of Kansas",
-    "interests": "How people experience and understand emotion, in particular via natural language, multimodal, and mixed-method approaches",
-    "socials": "https://www.katiehoemann.com/",
-    "email": "khoemann@gmail.com",
-    "image_url": "files/images/Hoemann.jpg"
+    "id": "Guðrún_Guðmundsdóttir",
+    "first_name": "Guðrún",
+    "last_name": "Guðmundsdóttir",
+    "current_position": "PhD student",
+    "institution": "Maastricht University",
+    "interests": "I'm interested in all things ESM, particularly in response processes (e.g., how do people interpret and use slider scales?), time-scale considerations (e.g., how frequently should we measure a construct based on its variability in daily life?), and the why and how of using open-text responses (e.g., what is the added value of written responses beyond what we can infer from closed items?).",
+    "socials": "",
+    "email": "gudrun.rut.gudmundsdottir@gmail.com",
+    "image_url": "files/images/Guðmundsdóttir.jpg"
   }
 ];
 
