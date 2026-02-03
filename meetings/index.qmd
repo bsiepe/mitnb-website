@@ -68,4 +68,4 @@ The main part of the meeting were the hackathons, during which participants work
 
 ![Hackathon on formalizing measurement theory](files/mitnb_workshop_2025_hackathon.jpg)
 
-![Presentation of results of hackathon group on clinical change](files/mitnb_workshop_2025_presentation.jpg)
+![Presentation of hackathon results of group on clinical change](files/mitnb_workshop_2025_presentation.jpg)
