@@ -12,6 +12,9 @@ Well-designed ESM studies depend on choosing what to measure, how often, and how
 -   [**Fritz et al. (2024)**](https://doi.org/10.1177/25152459241267912)\
     Offers a practical guide of 10 essential considerations, ranging from study design to data analysis.
 
+-   [**Myin-Germeys & Kuppens (2026)**](https://www.jstor.org/content/oa_book_edited/jj.29048691)\
+    Open-access comprehensive overview on how to design, conduct and analyze ESM-studies by experts in the field.  
+
 -   [**Tuerlinckx et al. (2025)**](https://doi.org/10.1111/bmsp.12398)\
     Reviews emerging advancements in ESM methodology, including best practices around reliability, validity, and timing of assessments.
 
@@ -19,14 +22,20 @@ Well-designed ESM studies depend on choosing what to measure, how often, and how
 
 Although repeated assessments provide rich data, they can influence how participants respond, leading to phenomena such as measurement reactivity and careless responding. These papers summarize the issue and point towards analytical solutions to deal with them.
 
+-   [**Eisele et al. (2026)**](https://psycnet.apa.org/record/2027-45863-001)\
+    Shows how distracting social environments influence participants' response behavior and experienced disturbance.
+    
+-   [**Gieles et al. (2026)**](https://osf.io/preprints/psyarxiv/cj8ut_v1)\
+    Introduces a taxonomy of potential sources of (measurement-induced) change in ESM data, including e.g. measurement reactivity, interference, reconceptualization, improved introception, declining participant engagement.
+
 -   [**König et al. (2022)**](https://doi.org/10.1080/17437199.2022.2047096)\
     Systematic review and meta-analysis of reactivity effects in ESM studies on health behavior. It highlights common patterns and offers mitigation strategies.
 
--   [**Vogelsmeier et al. (2022)**](https://doi.org/10.3758/s13428-022-01898-1)\
-    Introduces how latent Markov factor analysis can be used to assess measurement invariance in ESM data.
-
 -   [**Vogelsmeier et al. (2024)**](https://doi.org/10.1111/bmsp.12373)\
     Applies a combination of confirmatory mixture item response theory model with latent Markov factor analysis to detect careless responding in ESM data.
+    
+-   [**Vogelsmeier et al. (2026)**](https://osf.io/download/69df3185b647e4e815fcdece/)\
+    Showcases the calculation of different methods for careless responding in ESM data and the limitations of these methods.
 
 ## Validation of ESM Items
 
@@ -45,7 +54,7 @@ Although ESM is widely used in psychological research, rigorous validation of co
 
 Assessing psychometric properties in ESM studies is complicated by the dynamic nature of emotions and behaviors. These papers describe multiple ways to assess reliability and validity in ESM data and show two recent examples of ESM questionnaires that were validated using multiple methods.
 
--   [**Castro-Alvarez et al. (2024)**](https://osf.io/qyk2r_v1/)\
+-   [**Castro-Alvarez et al. (2025)**](https://psycnet.apa.org/record/2026-77126-001)\
     Offers an overview of statistical approaches to quantify reliability of dynamic psychological constructs.
 
 -   [**Dejonckheere et al. (2022)**](https://doi.org/10.1037/pas0001178)\
@@ -89,7 +98,14 @@ The quality of ESM data depends not only on what is measured, but also when, how
 
 ## Beyond Rating Scales: Capturing Daily Life Complexity
 
-ESM typically uses standard ratings scales, but such scales often miss important nuances. These tutorial papers show different methods beyond standard rating scales to better capture the complexity of daily life.
+ESM typically uses standard ratings scales, but such scales often miss important nuances. These papers argue for the inclusion of more qualitative components and show different methods beyond standard rating scales to better capture the complexity of daily life.
+
+-   [**Bringmann et al. (2026)**](https://doi.org/10.1038/s44271-026-00416-9)\
+    Argues for the collection and analysis of open-ended responses to better understand numerical responses in EMA.\
+    *Note: This paper is a direct output from a collaboration formed during the MITNB annual meeting 2024.*
+
+-   [**Grunfeld et al. (2025)**](https://doi.org/10.1037/abn0000928)\
+    Argues how qualitative data collection can help bringing the "experience" back into ESM. 
 
 -   [**Stadel et al. (2025)**](https://doi.org/10.1016/j.metip.2025.100177)\
     Compares categorical response scoring vs. open-ended qualitative analysis to study daily activities.
