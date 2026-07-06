@@ -5,6 +5,15 @@ description-meta: "MITNB Newsletter"
 
 Since 2025, we also publish a newsletter four times a year. You can find previous editions here.
 
+## July 2026
+
+```{=html}
+<div style="border: 1px solid #ddd; margin: 20px 0;">
+  <iframe src="files/mitnbNewsletter_july2026.pdf" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a class="btn btn-primary" href="files/mitnbNewsletter_july2026.pdf" target="_blank">Download PDF</a></p>
+```
+
 ## February 2026
 
 ```{=html}
